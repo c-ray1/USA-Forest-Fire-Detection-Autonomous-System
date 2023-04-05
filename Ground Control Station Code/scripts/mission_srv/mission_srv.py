@@ -1,0 +1,246 @@
+#!/usr/bin/env python3
+import socket
+import sys
+import json
+import time
+import os
+import getopt
+import base64
+import _thread
+import psycopg2
+import logging
+import logging.handlers
+from signal_handler import SignalHandler
+
+LOG_FILENAME = '/opt/firedrone/logs/mission_srv.log'
+
+#Set up a specific logger with a desired output level
+mission_logger = logging.getLogger('mission_srv')
+mission_logger.setLevel(logging.DEBUG)
+
+handler = logging.handlers.RotatingFileHandler(
+            LOG_FILENAME, maxBytes = 200000, backupCount = 5)
+
+mission_logger.addHandler(handler)
+
+formatter = logging.Formatter('%(asctime)s - [%(name)s] - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+RCVBUF = 1024 
+
+signal_handler = SignalHandler()
+
+def usage():
+    print('Usage: mission_srv [<options...] <source:port>\n')
+    print('\t-o <directory> \tDirectory to output the imagery and telemetry [--output]')
+    print('\t-h \t\tPrint this help menu [--help]')
+    print('default source <127.0.0.1:16551>')
+
+def insert_into_database(data_dict: dict=None):
+
+    conn = None
+    if data_dict is not None:
+        sql_str='INSERT INTO detection VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
+        try:
+            conn = psycopg2.connect(
+                    host='localhost',
+                    database='dronedb',
+                    user='postgres',
+                    password='postgres')
+            cur = conn.cursor()
+
+            cur.executemany(sql_str, [(
+                data_dict['uuid'],
+                data_dict['time'],
+                data_dict['lat'],
+                data_dict['lon'],
+                data_dict['alt'],
+                data_dict['yaw'],
+                data_dict['pitch'],
+                data_dict['roll'],
+                data_dict['speed'],
+                data_dict['imagename'],),]
+            )
+
+            conn.commit()
+            cur.close()
+        except psycopg2.DatabaseError as error:
+            print(error)
+        finally:
+            if conn is not None:
+                conn.close()
+
+def process_msg(path:str='/tmp/out/detection', msg:dict=None):
+    
+    tel_path = f'{path}/telemetry'
+    img_path = f'{path}/imagery'
+
+    if not os.path.exists(tel_path):
+        #print(f'Warning: Path {path} does not exit')
+        mission_logger.debug(f'Warning: Path {path} does not exit')
+        #print('Attempting to create!')
+        mission_logger.debug('Attempting to create!')
+        os.makedirs(tel_path, exist_ok=True)
+
+    if msg is not None:
+        tel_file = msg["uuid"]
+
+        tel_keys = ['uuid','time','lat','lon','alt','yaw','pitch','roll','speed']
+
+        tel_dict = {key:value for key, value in msg.items() if key in tel_keys}
+        tel_path = f'{tel_path}/{tel_file}'
+
+        with open(tel_path, 'w') as tp:
+            tp.write(json.dumps(tel_dict))
+
+
+        img_dict = msg['image']
+        img_data = base64.b64decode(img_dict['b64'].encode('utf'))
+
+        if not os.path.exists(img_path):
+            #print(f'Warning: Path {path} does not exit')
+            mission_logger.debug(f'Warning: Path {path} does not exit')
+            #print('Attempting to create!')
+            mission_logger.debug('Attempting to create!')
+            os.makedirs(img_path, exist_ok=True)
+        img_path = f'{img_path}/{msg["uuid"]}.{img_dict["ext"]}'
+
+        with open(img_path, 'wb') as ip:
+            ip.write(img_data)
+
+        tel_dict.update({'imagename' : img_path})
+
+        insert_into_database(tel_dict)
+
+
+def recv_func(conn, out_dir):
+
+    i = 0
+
+    while signal_handler.KEEP_PROCESSING:
+        i += 1
+        # Buffer for message string
+        det_msg = b'' 
+        
+        # Protocol to receive the detection id and detection size
+        det_info = conn.recv(RCVBUF).decode('utf-8')
+        det = det_info.split(',')
+
+        # Verify that the received string contains the two items
+        if len(det) < 2:
+            #print('Error: Invalid buffer.')
+            mission_logger.debug('Error: Invalid buffer.')
+            break;
+
+        det_id = det[0]
+        det_size = int(det[1])
+
+        #print(f'Count: {i}\tReceived: {det_id}\t{det_size} bytes')
+        mission_logger.info(f'Count: {i}\tReceived: {det_id}\t{det_size} bytes')
+        conn.send(b'NAME_SIZE')
+
+        bytes_recvd = 0
+
+        # Loop until all the detection bytes have been received
+        while bytes_recvd < det_size:
+            data = conn.recv(RCVBUF)
+            bytes_recvd += len(data)
+            # Accumlate all the bytes
+            det_msg += data
+
+        conn.send(det_id.encode('utf-8'))
+
+        msg = json.loads(det_msg.decode('utf-8'))
+
+        process_msg(out_dir,msg)
+
+
+    conn.close()
+
+def get_params():
+    dst_url = "0.0.0.0:16551"
+    dst     = "0.0.0.0"
+    port    = 16551
+    output_dir = "/opt/firedrone/data"
+
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "o:h:", ["output", "help"])
+    except getopt.GetoptError as err:
+        # print help information and exit:
+        print(err)  # will print something like "option -a not recognized"
+        usage()
+        sys.exit(2)
+
+    for o, a in opts:
+        if o in ("-o", "--output"):
+             output_dir = a
+        elif o in ("-h", "--help"):
+            usage()
+            sys.exit()
+        else:
+            assert False, "unhandled option"
+    # ...
+    if len(args) > 0:
+        dst_url = args[0].split(':')
+        dst     = dst_url[0]
+        port    = int(dst_url[1])
+
+    return { "dst": dst,
+            "port" : port,
+            "output" : output_dir}
+
+
+if __name__ == '__main__':
+
+    try:
+        """Default values for the duration and sample count."""
+        config = get_params()
+        dst = config["dst"]
+        port = config["port"]
+        output_dir = config["output"]
+
+        # check if output path exists. if not attempt to create it.
+        if not os.path.exists(output_dir):
+            #print(f'Warning: Directory [{output_dir}] does not exist')
+            mission_logger.info(f'Warning: Directory [{output_dir}] does not exist')
+            os.makedirs(output_dir, exist_ok=True)
+
+        gcs_sock = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
+        gcs_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        gcs_sock.bind((dst, port))
+        gcs_sock.listen(5)
+        socks=[]
+
+
+        #print(f'Waiting for network packets on {dst}:{port}')
+        mission_logger.info(f'Waiting for network packets on {dst}:{port}')
+
+        while signal_handler.KEEP_PROCESSING:
+            conn, addr = gcs_sock.accept()
+            socks.append(conn)
+
+            #print(f'Connected to {addr[0]}:{addr[1]}')
+            mission_logger.info(f'Connected to {addr[0]}:{addr[1]}')
+            _thread.start_new_thread(recv_func, (conn,output_dir))
+
+        gcs_sock.close()
+
+    except KeyboardInterrupt:
+        #print('Exiting program!')
+        mission_logger.info('Exiting program!')
+
+    except Exception as e:
+        #print('Error: Program Terrminated')
+        mission_logger.info('Error: Program Terrminated')
+        #print(e)
+        mission_logger.debug(e)
+    finally:
+        try:
+            if gcs_sock is not None:
+                if len(socks) > 0:
+                    for s in socks:
+                        s.close()
+            gcs_sock.close()
+        except NameError: 
+            pass
+

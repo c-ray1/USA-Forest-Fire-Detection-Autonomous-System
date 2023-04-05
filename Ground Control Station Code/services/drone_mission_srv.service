@@ -1,0 +1,14 @@
+[Unit]
+Description=Fire Drone Mission Service. Receives data from the drone
+After=network.target
+
+[Service]
+User=gcs
+ExecStart=/opt/firedrone/scripts/mission_srv/mission_srv.py
+TimeoutStopSec=5s
+Restart=on-failure
+RestartSec=5s
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
