@@ -1,0 +1,16 @@
+[Unit]
+Description=Fire Drone Image Scraper Service. Used to geotag images
+After=network.target fpv-camera.service drone_mavlink.service
+
+[Service]
+WorkingDirectory=/opt/firedrone/scripts/image_scraper
+User=operator
+EnvironmentFile=/etc/firedrone/image_scraper.cfg
+ExecStart=/opt/firedrone/scripts/image_scraper/image_scraper.py $IMG_INPUT $IMG_OUTPUT
+TimeoutStopSec=5s
+Restart=on-failure
+RestartSec=5s
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target

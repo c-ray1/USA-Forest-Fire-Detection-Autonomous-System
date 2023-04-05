@@ -1,0 +1,1354 @@
+2023-03-25 20:10:03,219 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:04,225 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:05,231 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:06,247 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:07,251 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:09,332 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:10,338 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:11,343 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:12,358 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:13,364 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:14,370 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:15,377 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:16,382 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:17,392 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:18,398 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:19,403 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:20,420 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:21,426 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:22,432 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:23,447 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:24,453 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:25,459 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:26,464 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:27,471 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:28,477 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:29,483 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:30,489 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:31,495 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:32,500 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:33,507 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:34,512 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:35,518 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:36,524 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:37,530 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:38,536 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:39,543 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:40,549 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:41,555 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:42,561 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:43,566 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:44,572 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:45,579 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:46,585 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:58,597 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:10:58,598 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 20:10:58,598 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:10:58,599 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:13:04,074 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:05,077 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:06,078 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:07,080 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:08,082 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:09,084 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:10,086 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:11,087 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:12,089 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:13,090 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:14,092 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:15,094 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:16,096 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:17,097 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:18,099 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:19,100 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:20,102 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:21,104 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:22,105 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:23,107 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:24,108 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:25,110 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:26,112 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:27,114 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:28,116 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:29,117 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:30,118 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:31,120 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:32,122 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:33,124 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:34,126 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:35,127 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:36,129 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:37,130 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:38,132 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:39,134 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:40,136 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:41,137 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:42,138 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:43,140 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:44,142 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:45,144 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:46,145 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:47,147 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:13:48,147 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:13:48,148 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:14:59,864 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:00,866 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:01,868 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:02,870 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:03,871 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:04,873 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:05,875 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:06,877 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:15:07,878 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:15:07,879 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:16:04,794 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:16,806 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:16,807 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 20:16:16,807 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:16:16,808 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:16:54,688 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:55,689 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:56,691 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:57,693 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:58,695 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:16:59,696 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:00,698 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:01,700 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:02,702 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:03,703 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:04,705 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:05,707 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:06,708 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:07,710 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:08,712 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:09,714 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:10,716 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:11,717 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:12,719 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:13,720 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:14,722 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:15,724 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:16,726 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:17,727 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:18,729 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:19,731 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:20,733 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:21,735 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:22,736 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:23,738 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:24,740 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:25,742 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:26,743 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:27,745 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:28,747 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:29,749 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:30,751 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:31,752 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:32,754 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:33,756 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:34,758 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:35,759 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:36,761 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:37,763 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:38,765 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:39,766 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:40,768 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:41,770 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:42,772 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:43,774 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:44,775 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:45,777 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:46,779 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:47,780 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:48,782 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:49,784 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:50,786 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:51,787 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:52,789 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:53,790 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:54,792 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:55,794 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:17:56,796 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:17:56,797 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:24:15,771 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:16,773 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:17,775 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:18,777 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:19,779 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:20,780 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:21,782 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:22,784 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:23,786 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:24,788 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:25,789 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:26,791 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:27,793 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:28,795 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:29,796 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:30,798 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:31,800 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:32,802 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:33,804 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:34,805 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:35,807 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:36,809 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:37,811 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:38,813 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:39,814 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:40,816 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:41,818 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:42,820 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:43,822 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:44,823 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:45,825 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:46,827 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:47,829 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:48,830 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:49,832 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:50,834 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:51,836 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:52,838 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:53,839 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:54,841 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:55,843 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:56,845 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:57,846 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:58,848 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:24:59,850 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:00,852 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:01,853 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:02,855 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:03,857 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:04,859 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:05,861 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:06,862 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:25:06,863 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:25:45,179 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:46,181 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:47,183 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:48,184 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:49,186 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:50,188 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:51,190 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:52,192 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:53,193 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:54,195 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:55,197 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:56,199 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:57,200 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:58,202 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:25:59,204 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:00,206 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:01,208 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:02,209 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:03,211 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:04,213 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:05,215 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:06,216 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:07,218 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:08,220 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:09,222 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:10,224 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:11,226 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:12,227 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:26:13,229 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:26:13,229 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:31:53,780 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:32:41,821 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:32:41,822 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 20:32:41,822 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:32:41,823 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:32:42,123 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:35:54,235 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:35:54,235 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 20:35:54,236 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 20:35:54,236 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-25 20:36:01,614 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 20:36:01,655 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 20:36:01,655 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 21:44:27,282 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:44:28,037 - [fire_detector] - INFO - Count: 1	 ACK: b'13ffffb9186a4056b9e36c943920e386'
+2023-03-25 21:44:41,036 - [fire_detector] - INFO - Count: 2	 ACK: b'7830c49f8fba4eda9aa47409eca0eac5'
+2023-03-25 21:44:42,996 - [fire_detector] - INFO - Count: 3	 ACK: b'51d16943c7ac468a9028708aaa221a74'
+2023-03-25 21:44:44,018 - [fire_detector] - INFO - Count: 4	 ACK: b'e0e03db8ef364128b4d3d4d9783d81c6'
+2023-03-25 21:44:45,065 - [fire_detector] - INFO - Count: 5	 ACK: b'c6a81952ec0d414881a0be250012a5bd'
+2023-03-25 21:44:46,244 - [fire_detector] - INFO - Count: 6	 ACK: b'499ffd6c6d354ba4860c093bc4fbf375'
+2023-03-25 21:44:50,024 - [fire_detector] - INFO - Count: 7	 ACK: b'33a79a6801654d008e7a9dba5c8e0bb1'
+2023-03-25 21:44:51,280 - [fire_detector] - INFO - Count: 8	 ACK: b'f5eb485d5fb745ceb7261e0f0a244d67'
+2023-03-25 21:44:53,225 - [fire_detector] - INFO - Count: 9	 ACK: b'85ba8adae7b84f94ac57f81439c31967'
+2023-03-25 21:44:58,542 - [fire_detector] - INFO - Count: 10	 ACK: b'7daec44fdcd64d0c8096d503fca0ef43'
+2023-03-25 21:45:01,084 - [fire_detector] - INFO - Count: 11	 ACK: b'ae29087237cf46459cd26782ab4849ad'
+2023-03-25 21:45:02,063 - [fire_detector] - INFO - Count: 12	 ACK: b'0f2e81b3b8c44eb79c73fcffd94d0ef6'
+2023-03-25 21:45:02,304 - [fire_detector] - INFO - Count: 13	 ACK: b'670cfbdfec8a467997846d915028f741'
+2023-03-25 21:45:04,019 - [fire_detector] - INFO - Count: 14	 ACK: b'72022fa926cf4d559cd5d4eba33cc4ca'
+2023-03-25 21:45:05,032 - [fire_detector] - INFO - Count: 15	 ACK: b'4a72bc68a3574eb3ad033c8973749c99'
+2023-03-25 21:45:06,004 - [fire_detector] - INFO - Count: 16	 ACK: b'b5df28cc4b594dddb527a22a5ff36bb1'
+2023-03-25 21:45:08,584 - [fire_detector] - INFO - Count: 17	 ACK: b'b34823eddc8b4007ac84938b6dfd15b1'
+2023-03-25 21:45:12,036 - [fire_detector] - INFO - Count: 18	 ACK: b'290ad035036143fd82f7edd1f2e724e4'
+2023-03-25 21:45:17,339 - [fire_detector] - INFO - Count: 19	 ACK: b'65d06ac13ef6424eab5370e033397703'
+2023-03-25 21:45:18,043 - [fire_detector] - INFO - Count: 20	 ACK: b'f0e95a0c5a1146b8b303ceac5a41ee8e'
+2023-03-25 21:45:19,993 - [fire_detector] - INFO - Count: 21	 ACK: b'4b93eec70f954403b95cbdd8f1d6ea42'
+2023-03-25 21:45:22,052 - [fire_detector] - INFO - Count: 22	 ACK: b'292115abfc7e45d38c3683f34bab8bcd'
+2023-03-25 21:45:23,008 - [fire_detector] - INFO - Count: 23	 ACK: b'4c81202b976b4a5cadbe9372c80e8661'
+2023-03-25 21:45:24,708 - [fire_detector] - INFO - Count: 24	 ACK: b'0b8ec0766b76434491c7ca58ac3cb325'
+2023-03-25 21:45:24,935 - [fire_detector] - INFO - Count: 25	 ACK: b'977ddd82963e4285b94fca21609fd3e9'
+2023-03-25 21:45:26,140 - [fire_detector] - INFO - Count: 26	 ACK: b'6686484cdbea49e8be7925b5997f5196'
+2023-03-25 21:45:27,030 - [fire_detector] - INFO - Count: 27	 ACK: b'e70a58dd6d234534bb313ebe5b909272'
+2023-03-25 21:45:27,802 - [fire_detector] - INFO - Count: 28	 ACK: b'4fb3a1a2204f4994a663ae2f206d3cf1'
+2023-03-25 21:45:29,740 - [fire_detector] - INFO - Count: 29	 ACK: b'1cf34254a9b247d88323e7e1848f62a4'
+2023-03-25 21:45:30,729 - [fire_detector] - INFO - Count: 30	 ACK: b'038d1790058647f394e7e9cf86f6fbb4'
+2023-03-25 21:45:34,115 - [fire_detector] - INFO - Count: 31	 ACK: b'da173094f7ed4422a8a48a25c6adf080'
+2023-03-25 21:45:36,984 - [fire_detector] - INFO - Count: 32	 ACK: b'e5f3f307b155462bb22afe3706fe8234'
+2023-03-25 21:45:38,896 - [fire_detector] - INFO - Count: 33	 ACK: b'f8a7663680c642ca88dc8d3b5b3263e8'
+2023-03-25 21:45:39,287 - [fire_detector] - INFO - Count: 34	 ACK: b'4d27b212cec842bcacce2d2089ffb633'
+2023-03-25 21:45:41,232 - [fire_detector] - INFO - Count: 35	 ACK: b'cff8f0e2fe4b42e0a65b4361d2a584d7'
+2023-03-25 21:45:41,737 - [fire_detector] - INFO - Count: 36	 ACK: b'529960ac11af494bbc4b96e198e3c101'
+2023-03-25 21:45:44,089 - [fire_detector] - INFO - Count: 37	 ACK: b'36ab1d9fd2344a14b0576f89a1841181'
+2023-03-25 21:45:44,784 - [fire_detector] - INFO - Count: 38	 ACK: b'148108d434c8459b99fad896ad080264'
+2023-03-25 21:45:46,068 - [fire_detector] - INFO - Count: 39	 ACK: b'a26bad6f644e40e9b94c0ca0a380878a'
+2023-03-25 21:45:46,753 - [fire_detector] - INFO - Count: 40	 ACK: b'b4bc31dd22574c97a993b6b918bf6657'
+2023-03-25 21:45:47,935 - [fire_detector] - INFO - Count: 41	 ACK: b'bfb3be6bdbb8476f97d9e648fc9ea3a3'
+2023-03-25 21:45:50,664 - [fire_detector] - INFO - Count: 42	 ACK: b'70a262e1b8684b4dad26252ad55bc58d'
+2023-03-25 21:45:51,039 - [fire_detector] - INFO - Count: 43	 ACK: b'074af7e9c3e9490ea499b3409d1e4ada'
+2023-03-25 21:45:51,803 - [fire_detector] - INFO - Count: 44	 ACK: b'5f049110d2ce40f88a8663478679a871'
+2023-03-25 21:45:52,939 - [fire_detector] - INFO - Count: 45	 ACK: b'78f2f14aa039476da5ca97a29de061de'
+2023-03-25 21:45:56,471 - [fire_detector] - INFO - Count: 46	 ACK: b'2455aaaea4ee43379bf1f4d104bcbaaa'
+2023-03-25 21:45:56,805 - [fire_detector] - INFO - Count: 47	 ACK: b'2239b797917a4baa99e6d894fe53fb0c'
+2023-03-25 21:45:57,739 - [fire_detector] - INFO - Count: 48	 ACK: b'0f18d977fbf74950b7fa1e27ca327c41'
+2023-03-25 21:45:58,967 - [fire_detector] - INFO - Count: 49	 ACK: b'b6365c9b0a47455ca80c3bea8f185be5'
+2023-03-25 21:45:59,049 - [fire_detector] - INFO - Warning: JSON Error - failed to parse 9a37b6346b5c40df85d5d2caf51ff993
+2023-03-25 21:46:03,742 - [fire_detector] - INFO - Count: 50	 ACK: b'ba6c7266253344aab636eca9d1d45b92'
+2023-03-25 21:46:05,453 - [fire_detector] - INFO - Count: 51	 ACK: b'ad66b0b17e1a49ce9e2fc543d296ec22'
+2023-03-25 21:46:06,247 - [fire_detector] - INFO - Count: 52	 ACK: b'e23609cf0ca1460b992fd37a2ef351f2'
+2023-03-25 21:46:08,184 - [fire_detector] - INFO - Count: 53	 ACK: b'1c77f0b185314e929de9fdbb82781ad6'
+2023-03-25 21:46:08,753 - [fire_detector] - INFO - Count: 54	 ACK: b'f4dabe2c1c224ff0a3949cb7dbba399a'
+2023-03-25 21:46:09,776 - [fire_detector] - INFO - Count: 55	 ACK: b'88f03e52fab34fbebabaa4d78f1aaed2'
+2023-03-25 21:46:10,975 - [fire_detector] - INFO - Count: 56	 ACK: b'94a0a5f8ae5b4e508dfa1877fde8d94c'
+2023-03-25 21:46:12,724 - [fire_detector] - INFO - Count: 57	 ACK: b'0fd8ae42792e42af828fb98338de0010'
+2023-03-25 21:46:17,995 - [fire_detector] - INFO - Count: 58	 ACK: b'938a26b558e144cebea69a8aeac2f606'
+2023-03-25 21:46:22,975 - [fire_detector] - INFO - Count: 59	 ACK: b'5dff5fa296fb44918df35088c0cfc12a'
+2023-03-25 21:46:38,310 - [fire_detector] - INFO - Count: 60	 ACK: b'61de0ef6a568487ab9bd5fccb01a9590'
+2023-03-25 21:46:40,454 - [fire_detector] - INFO - Count: 61	 ACK: b'2d7ebf9b176a4842aed17299be0e5bbc'
+2023-03-25 21:46:40,930 - [fire_detector] - INFO - Count: 62	 ACK: b'c680a477383649d1b10f31d9edc45f36'
+2023-03-25 21:46:42,835 - [fire_detector] - INFO - Count: 63	 ACK: b'6e02e1774c1b44d799d71e7c2105b1be'
+2023-03-25 21:46:43,742 - [fire_detector] - INFO - Count: 64	 ACK: b'da0853e64e6c43598ad7c25014a512ec'
+2023-03-25 21:46:46,278 - [fire_detector] - INFO - Count: 65	 ACK: b'b4133afa1e8c441295dfa383a7786c72'
+2023-03-25 21:46:55,006 - [fire_detector] - INFO - Count: 66	 ACK: b'9aa7df9217f545f1afbdeea53e47410e'
+2023-03-25 21:46:56,705 - [fire_detector] - INFO - Count: 67	 ACK: b'9069b36e2c7845f8af3a35e2a3dec7c0'
+2023-03-25 21:46:57,839 - [fire_detector] - INFO - Count: 68	 ACK: b'8e900a1f192b4d3ba052c86f25581de3'
+2023-03-25 21:46:58,800 - [fire_detector] - INFO - Count: 69	 ACK: b'dfc0db3c74884035b66a4b7c24f0c226'
+2023-03-25 21:47:00,819 - [fire_detector] - INFO - Count: 70	 ACK: b'2c3e07aeaaf1419999dacb3048261fc8'
+2023-03-25 21:47:01,334 - [fire_detector] - INFO - Count: 71	 ACK: b'4b12113be43149759e591908703ea9f9'
+2023-03-25 21:47:03,037 - [fire_detector] - INFO - Count: 72	 ACK: b'5e5f40fa9fcf4401a4f40f1d6a608cb9'
+2023-03-25 21:47:05,031 - [fire_detector] - INFO - Count: 73	 ACK: b'611503164f1b4f72a9b677955c53c89c'
+2023-03-25 21:47:05,302 - [fire_detector] - INFO - Count: 74	 ACK: b'e2e2eddd556245ca81853ae2d03c2b6b'
+2023-03-25 21:47:08,188 - [fire_detector] - INFO - Warning: FileNotFound Error - failed to parse fccf5ebcafbf429ca12a23646dcc70b6
+2023-03-25 21:47:08,303 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:47:08,304 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 21:47:08,304 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 21:47:17,757 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:47:17,823 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 21:47:17,828 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 21:47:23,324 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:47:29,717 - [fire_detector] - INFO - Count: 1	 ACK: b'c626b8ff53f2432fbbccb898f2308e01'
+2023-03-25 21:47:30,392 - [fire_detector] - INFO - Count: 2	 ACK: b'5e28f544ae1e48a4bb45e19ba5031566'
+2023-03-25 21:47:30,644 - [fire_detector] - INFO - Warning: JSON Error - failed to parse 360d1f7e9ed24e299402ddeb1e5e6e8d
+2023-03-25 21:47:33,211 - [fire_detector] - INFO - Count: 3	 ACK: b'0f86b72dfddb4f9ba1bac552ecd75050'
+2023-03-25 21:47:39,452 - [fire_detector] - INFO - Count: 4	 ACK: b'3827b8ead56641ba887872f4b282bd20'
+2023-03-25 21:47:40,408 - [fire_detector] - INFO - Count: 5	 ACK: b'26498041f014484eb90050920f2ae47e'
+2023-03-25 21:47:41,413 - [fire_detector] - INFO - Count: 6	 ACK: b'1465550a11644e68a1d51db23dadda94'
+2023-03-25 21:47:42,417 - [fire_detector] - INFO - Count: 7	 ACK: b'f3056d23afe54518a4b3d322891eaf59'
+2023-03-25 21:47:43,431 - [fire_detector] - INFO - Count: 8	 ACK: b'9706b22833e24d8f92b8ae1f53d81a02'
+2023-03-25 21:47:44,416 - [fire_detector] - INFO - Count: 9	 ACK: b'2f500df0837f4443bc85b57398c8bc6d'
+2023-03-25 21:50:53,963 - [fire_detector] - INFO - Count: 10	 ACK: b'd6203a978714498ebd31d8f7cbcafefa'
+2023-03-25 21:50:56,671 - [fire_detector] - INFO - Count: 11	 ACK: b'2f09557befe54331ba048e85d353c6c5'
+2023-03-25 21:50:59,171 - [fire_detector] - INFO - Count: 12	 ACK: b'2509273424e7495fa40c57beceec6e48'
+2023-03-25 21:50:59,961 - [fire_detector] - INFO - Count: 13	 ACK: b'f7c7ccd55bdf48af97406f3eea38b8d8'
+2023-03-25 21:51:03,945 - [fire_detector] - INFO - Count: 14	 ACK: b'f7a7125493cb4bd2b151c5d0352b44fd'
+2023-03-25 21:51:07,941 - [fire_detector] - INFO - Count: 15	 ACK: b'29eab1f54c5e4fa5b80635e62cc578d1'
+2023-03-25 21:51:09,934 - [fire_detector] - INFO - Count: 16	 ACK: b'13f9c72e1f984389b22833b8863135dd'
+2023-03-25 21:51:11,978 - [fire_detector] - INFO - Count: 17	 ACK: b'663bd4a89a2240ecbfa337b83aaa787a'
+2023-03-25 21:51:14,241 - [fire_detector] - INFO - Count: 18	 ACK: b'3e8d77a1aa2c439cb531ee0cf5fce104'
+2023-03-25 21:51:17,518 - [fire_detector] - INFO - Count: 19	 ACK: b'e03b9c86e560483c8c158edc90dddace'
+2023-03-25 21:51:23,990 - [fire_detector] - INFO - Count: 20	 ACK: b'2a60647c7f9d4229bf02fcc8231fabbb'
+2023-03-25 21:51:27,209 - [fire_detector] - INFO - Count: 21	 ACK: b'71f6fdc79e164155b31b88eafdc6a44a'
+2023-03-25 21:51:29,544 - [fire_detector] - INFO - Count: 22	 ACK: b'96b14620d9cc4a089b30842e45403760'
+2023-03-25 21:51:31,260 - [fire_detector] - INFO - Count: 23	 ACK: b'e3a632f91fab4208a9a7406f6a7423dd'
+2023-03-25 21:51:32,974 - [fire_detector] - INFO - Count: 24	 ACK: b'cdb052f379b945a4a16d355c05d5e816'
+2023-03-25 21:51:35,465 - [fire_detector] - INFO - Count: 25	 ACK: b'09fb1ab1dfc647a8a8e3d15185dfb9d6'
+2023-03-25 21:51:36,025 - [fire_detector] - INFO - Count: 26	 ACK: b'b1f647d5c0bf43c195cbe77e6cfcc5ea'
+2023-03-25 21:51:38,011 - [fire_detector] - INFO - Count: 27	 ACK: b'fcb523b4e8e040dd865ba3144c14dd58'
+2023-03-25 21:51:38,959 - [fire_detector] - INFO - Count: 28	 ACK: b'0fd7190abf0e4cdbbf45c136c534ea43'
+2023-03-25 21:51:40,183 - [fire_detector] - INFO - Count: 29	 ACK: b'1de180b2f3d64c0ca42bbc6ca86ce36b'
+2023-03-25 21:51:40,956 - [fire_detector] - INFO - Count: 30	 ACK: b'fb72ea2093e9404c8c4f5b032bb3aa7b'
+2023-03-25 21:51:42,949 - [fire_detector] - INFO - Count: 31	 ACK: b'faf3181f3dfc461da966f2778fc285f3'
+2023-03-25 21:51:44,949 - [fire_detector] - INFO - Count: 32	 ACK: b'86947abf3c5a4fd4b3b0f59a51564f21'
+2023-03-25 21:51:51,158 - [fire_detector] - INFO - Count: 33	 ACK: b'061f22c2229942babd4fc3018273bd9b'
+2023-03-25 21:51:51,966 - [fire_detector] - INFO - Count: 34	 ACK: b'cf7f0edaac5441b7ac2c799d3aff830b'
+2023-03-25 21:51:55,399 - [fire_detector] - INFO - Count: 35	 ACK: b'8ba90959f4e04dc7ac2dca5269c319fe'
+2023-03-25 21:51:55,967 - [fire_detector] - INFO - Count: 36	 ACK: b'384cd989122b44a28f77607fcdfc8cc6'
+2023-03-25 21:51:57,187 - [fire_detector] - INFO - Count: 37	 ACK: b'8b79fde73e824370a14bacf3f00b2ead'
+2023-03-25 21:52:00,631 - [fire_detector] - INFO - Count: 38	 ACK: b'ef0ed10660964105be6fe200c9974138'
+2023-03-25 21:52:03,003 - [fire_detector] - INFO - Count: 39	 ACK: b'96527e8c937a45a4b08d8d4d7ad9fd3b'
+2023-03-25 21:52:05,530 - [fire_detector] - INFO - Count: 40	 ACK: b'e6fd49233ede4ab8a160166d19b91ae5'
+2023-03-25 21:52:07,236 - [fire_detector] - INFO - Count: 41	 ACK: b'c63526586d9c4875aee7eb677b333065'
+2023-03-25 21:52:08,279 - [fire_detector] - INFO - Count: 42	 ACK: b'a33099730e6a429a8ec2c196a2912ad1'
+2023-03-25 21:52:10,767 - [fire_detector] - INFO - Count: 43	 ACK: b'd9a38f20868743f69d5fb041c63becd5'
+2023-03-25 21:52:14,446 - [fire_detector] - INFO - Count: 44	 ACK: b'04b63a5623174c2498531b7ca85dce70'
+2023-03-25 21:52:16,475 - [fire_detector] - INFO - Count: 45	 ACK: b'9909e9e3fb2e4498bd1b63b476cce3a6'
+2023-03-25 21:52:17,215 - [fire_detector] - INFO - Count: 46	 ACK: b'6fcbdce3152846eda7c918888f51ab80'
+2023-03-25 21:52:18,223 - [fire_detector] - INFO - Count: 47	 ACK: b'38b771f4a46a461c975ba9073008915d'
+2023-03-25 21:52:19,239 - [fire_detector] - INFO - Count: 48	 ACK: b'ee2406ad116e445ba168bff8ef32e933'
+2023-03-25 21:52:20,239 - [fire_detector] - INFO - Count: 49	 ACK: b'b4494ca1061d479ea6f5b03c50c7b0d7'
+2023-03-25 21:52:21,943 - [fire_detector] - INFO - Count: 50	 ACK: b'345a0916930347fc93200c4dac8eec60'
+2023-03-25 21:52:23,203 - [fire_detector] - INFO - Count: 51	 ACK: b'f7da14818b214229b962eaac343157ac'
+2023-03-25 21:52:24,437 - [fire_detector] - INFO - Count: 52	 ACK: b'f9e558c6290c47c28c978ccb61eadbc2'
+2023-03-25 21:52:25,231 - [fire_detector] - INFO - Count: 53	 ACK: b'954515231c1a43ae8e0b53dcbbcad2be'
+2023-03-25 21:52:26,012 - [fire_detector] - INFO - Count: 54	 ACK: b'5455a19ce9614f0fb9908a5993fd904b'
+2023-03-25 21:52:26,948 - [fire_detector] - INFO - Count: 55	 ACK: b'e38ab427ba1b498b93a9f207177a0829'
+2023-03-25 21:52:27,941 - [fire_detector] - INFO - Count: 56	 ACK: b'38f24ea3660244e4bdda435c8ded2c60'
+2023-03-25 21:52:30,223 - [fire_detector] - INFO - Count: 57	 ACK: b'9cfbd92894b34a539a49f619508af1cd'
+2023-03-25 21:52:32,251 - [fire_detector] - INFO - Count: 58	 ACK: b'c2ec55c5c80f424aa6bc53774d5f0693'
+2023-03-25 21:52:36,956 - [fire_detector] - INFO - Count: 59	 ACK: b'f5c45c37fd964e6fa60e94229e6ee496'
+2023-03-25 21:52:38,191 - [fire_detector] - INFO - Count: 60	 ACK: b'c9e3084bfaf54d46bacadfbfe67b504d'
+2023-03-25 21:52:39,991 - [fire_detector] - INFO - Count: 61	 ACK: b'2daf94086a874c5bb35c1f13a3cfe97e'
+2023-03-25 21:52:41,164 - [fire_detector] - INFO - Count: 62	 ACK: b'd95dbe634139475dbe3d2cc036c53cd6'
+2023-03-25 21:52:43,175 - [fire_detector] - INFO - Count: 63	 ACK: b'ae8d3439a350465c817529fd27fa049f'
+2023-03-25 21:52:49,615 - [fire_detector] - INFO - Count: 64	 ACK: b'bfe208096106454d83ba75183dda6a0c'
+2023-03-25 21:53:02,207 - [fire_detector] - INFO - Count: 65	 ACK: b'99b92f082b1944c2895e31fa15e40803'
+2023-03-25 21:53:05,411 - [fire_detector] - INFO - Count: 66	 ACK: b'f600229fc083409b9fd81cb38682e1a6'
+2023-03-25 21:53:06,211 - [fire_detector] - INFO - Count: 67	 ACK: b'065935b8f1a44beb8326bf65eaf73cc9'
+2023-03-25 21:53:06,967 - [fire_detector] - INFO - Count: 68	 ACK: b'd0dbd08f7b2d4693898c7f277c187ef7'
+2023-03-25 21:53:07,959 - [fire_detector] - INFO - Count: 69	 ACK: b'74c8708a633a451c902c0c949c35f1aa'
+2023-03-25 21:53:09,891 - [fire_detector] - INFO - Count: 70	 ACK: b'441575db5d194961b121e2b2568918d7'
+2023-03-25 21:53:11,972 - [fire_detector] - INFO - Count: 71	 ACK: b'bcf61eb791064190b299cb1b06bb6983'
+2023-03-25 21:53:16,199 - [fire_detector] - INFO - Count: 72	 ACK: b'14cb3e94147b4ca8a72d7d4b6aedd255'
+2023-03-25 21:53:18,127 - [fire_detector] - INFO - Count: 73	 ACK: b'348020e3f6134dad91997811e1208163'
+2023-03-25 21:53:20,199 - [fire_detector] - INFO - Count: 74	 ACK: b'c58ec0ce39c74951957c50723f373830'
+2023-03-25 21:53:22,223 - [fire_detector] - INFO - Count: 75	 ACK: b'3f272f232e3c449aa91b693b399f8cac'
+2023-03-25 21:53:29,956 - [fire_detector] - INFO - Count: 76	 ACK: b'1a1710372c5445a3bc64721039b9f46b'
+2023-03-25 21:53:32,163 - [fire_detector] - INFO - Count: 77	 ACK: b'81937b89578e4663b21dded650c5e4ed'
+2023-03-25 21:53:33,120 - [fire_detector] - INFO - Count: 78	 ACK: b'9c9daed3204e46ae8819d3702810a62b'
+2023-03-25 21:53:34,123 - [fire_detector] - INFO - Count: 79	 ACK: b'41c6ee95019a4c20960346871cbea61e'
+2023-03-25 21:53:35,754 - [fire_detector] - INFO - Count: 80	 ACK: b'0599fa57259c4050afc58f70b77d89cb'
+2023-03-25 21:53:37,398 - [fire_detector] - INFO - Count: 81	 ACK: b'a9cd288efa184f8fbe8a7b43da10275c'
+2023-03-25 21:53:38,409 - [fire_detector] - INFO - Count: 82	 ACK: b'91f6cc2863e04a73ae6e2e08a4d0d686'
+2023-03-25 21:53:41,553 - [fire_detector] - INFO - Count: 83	 ACK: b'bbfa3879c5f8491dbed88cb225987006'
+2023-03-25 21:53:46,185 - [fire_detector] - INFO - Count: 84	 ACK: b'db4ec0d97928414caa7ddbaa5a9c0ec3'
+2023-03-25 21:53:46,846 - [fire_detector] - INFO - Count: 85	 ACK: b'e3b29b9c3fa5490881f6fc0f10bcd5a8'
+2023-03-25 21:53:48,940 - [fire_detector] - INFO - Count: 86	 ACK: b'e53a9e1f6cc2417ca622a675ebbb6303'
+2023-03-25 21:53:49,854 - [fire_detector] - INFO - Count: 87	 ACK: b'c2b547e87f464f1fa04e09ce10601970'
+2023-03-25 21:53:50,351 - [fire_detector] - INFO - Count: 88	 ACK: b'3970e87e05ae4a4a96ef8181dea793a1'
+2023-03-25 21:53:52,211 - [fire_detector] - INFO - Count: 89	 ACK: b'677903072c144414bf454201088f691b'
+2023-03-25 21:53:55,567 - [fire_detector] - INFO - Count: 90	 ACK: b'9dc01fceb26d4259915e0bf7a2be8d57'
+2023-03-25 21:53:55,849 - [fire_detector] - INFO - Count: 91	 ACK: b'ab72c7e0dc484d7fbd08fa86d205ae4b'
+2023-03-25 21:53:58,071 - [fire_detector] - INFO - Count: 92	 ACK: b'4aed68d4a3324c14838c6570c9b6577c'
+2023-03-25 21:54:04,436 - [fire_detector] - INFO - Count: 93	 ACK: b'66c60c06cf754572857d8dba949ede08'
+2023-03-25 21:54:06,300 - [fire_detector] - INFO - Count: 94	 ACK: b'2b2260a14a214e3d9984dd100cc2363c'
+2023-03-25 21:54:07,092 - [fire_detector] - INFO - Count: 95	 ACK: b'46b457f805f24840b3855572d51b9b3c'
+2023-03-25 21:54:07,840 - [fire_detector] - INFO - Count: 96	 ACK: b'31ae6b63032d4de68f78f0eb84dd0fcc'
+2023-03-25 21:54:13,972 - [fire_detector] - INFO - Count: 97	 ACK: b'4aeafc23ebdc47acbe208acc9e1fbb9d'
+2023-03-25 21:54:15,068 - [fire_detector] - INFO - Count: 98	 ACK: b'64004db71fef4371a19dd688a2b70025'
+2023-03-25 21:54:17,055 - [fire_detector] - INFO - Count: 99	 ACK: b'42de2c27134d417b9cdcc566b382e9e8'
+2023-03-25 21:54:18,080 - [fire_detector] - INFO - Count: 100	 ACK: b'a7b9fe85077a47c0acdc6ac6eed0b422'
+2023-03-25 21:54:22,160 - [fire_detector] - INFO - Count: 101	 ACK: b'f4a42c4037e44f11b07be67ef88cf3d6'
+2023-03-25 21:54:24,116 - [fire_detector] - INFO - Count: 102	 ACK: b'fd77cd1be15245ae9f599fd42f538568'
+2023-03-25 21:54:24,906 - [fire_detector] - INFO - Count: 103	 ACK: b'e7c56b4168fb4520a7f0f91b7d3fcf57'
+2023-03-25 21:54:26,132 - [fire_detector] - INFO - Count: 104	 ACK: b'5cdaaefdc25e42f39a2ee7f08937eb26'
+2023-03-25 21:54:29,300 - [fire_detector] - INFO - Count: 105	 ACK: b'4a0ecdcfd70148f99e9645fd51971b13'
+2023-03-25 21:54:30,124 - [fire_detector] - INFO - Count: 106	 ACK: b'bb4e82a5e7fc4258a71e84fbfa3f6f40'
+2023-03-25 21:54:31,111 - [fire_detector] - INFO - Count: 107	 ACK: b'53a03d438bd144dd831cbd9ea6e944e6'
+2023-03-25 21:54:32,861 - [fire_detector] - INFO - Count: 108	 ACK: b'5f9b45b7cc4a4477b3b2c8b9fc5beeba'
+2023-03-25 21:54:33,866 - [fire_detector] - INFO - Count: 109	 ACK: b'a722133a09304091bb284ba44038d77d'
+2023-03-25 21:54:35,367 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:54:35,407 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 21:54:35,408 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 21:54:43,840 - [fire_detector] - INFO - Attempting to connect!
+2023-03-25 21:54:43,925 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-25 21:54:43,936 - [fire_detector] - INFO - Socket loop closed
+2023-03-25 21:54:43,936 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 00:27:09,575 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:27:09,584 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:27:09,585 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:27:09,586 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 00:32:06,639 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:32:09,130 - [fire_detector] - INFO - Count: 1	 ACK: b'0e1bd07608634cc7b30170bb5f406ba8'
+2023-03-26 00:32:13,094 - [fire_detector] - INFO - Count: 2	 ACK: b'06d3f504beb44311a97cca1441f60467'
+2023-03-26 00:32:18,142 - [fire_detector] - INFO - Count: 3	 ACK: b'66621d14e3624bdfa5af7dc75b4ead35'
+2023-03-26 00:32:21,315 - [fire_detector] - INFO - Count: 4	 ACK: b'621e6069ac1d4f808ce484ec0121dcb1'
+2023-03-26 00:32:24,913 - [fire_detector] - INFO - Count: 5	 ACK: b'bb384a369df349aa8eaa2ff93c4dfea9'
+2023-03-26 00:32:26,146 - [fire_detector] - INFO - Count: 6	 ACK: b'00d429e2062d49879be863ce1e66f4e4'
+2023-03-26 00:32:27,906 - [fire_detector] - INFO - Count: 7	 ACK: b'4c7fdf79ed95491ebbd3ee5fee5c3962'
+2023-03-26 00:32:29,161 - [fire_detector] - INFO - Count: 8	 ACK: b'3e667628274c4d809024318746e9a02f'
+2023-03-26 00:32:29,974 - [fire_detector] - INFO - Count: 9	 ACK: b'ddaf7043f64b44abbb33b47dcda79838'
+2023-03-26 00:32:31,906 - [fire_detector] - INFO - Count: 10	 ACK: b'900337dcceae4fd3baf780ddab128cb6'
+2023-03-26 00:32:32,909 - [fire_detector] - INFO - Count: 11	 ACK: b'a962f9f8444b459a9e181f99bd56a76a'
+2023-03-26 00:32:39,092 - [fire_detector] - INFO - Count: 12	 ACK: b'e5e376da161a42ce92722d8382ed1d41'
+2023-03-26 00:32:39,926 - [fire_detector] - INFO - Count: 13	 ACK: b'429e8852a7ef4eabb35f7099bb05680a'
+2023-03-26 00:32:42,426 - [fire_detector] - INFO - Count: 14	 ACK: b'e0f006c5c4dd459286e92deaedc51ff3'
+2023-03-26 00:32:44,101 - [fire_detector] - INFO - Count: 15	 ACK: b'49cc83e3e95748d882b3f1762f3042f2'
+2023-03-26 00:32:47,103 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:32:47,104 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:32:47,104 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:32:55,889 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:32:55,930 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:32:55,931 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:39:37,804 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:39:39,663 - [fire_detector] - INFO - Count: 1	 ACK: b'f17c27e5f8a540b78320850a3c876220'
+2023-03-26 00:39:41,104 - [fire_detector] - INFO - Count: 2	 ACK: b'd1804a950b504f7d8883468e245d4c49'
+2023-03-26 00:39:41,936 - [fire_detector] - INFO - Count: 3	 ACK: b'1eee417c15c946d1b8a9aefcd55f65e9'
+2023-03-26 00:39:43,757 - [fire_detector] - INFO - Count: 4	 ACK: b'9364e0821d92490196eded1a405fcf1c'
+2023-03-26 00:39:45,678 - [fire_detector] - INFO - Count: 5	 ACK: b'58097c0d528b4b0ea8f70479345dd7cc'
+2023-03-26 00:39:47,732 - [fire_detector] - INFO - Count: 6	 ACK: b'5e75985f416e446d95653d073e72aad5'
+2023-03-26 00:39:51,703 - [fire_detector] - INFO - Count: 7	 ACK: b'2fa52a27281e47dea9b8776c1a83486a'
+2023-03-26 00:39:55,663 - [fire_detector] - INFO - Count: 8	 ACK: b'd884decaa0f14db59c4d9b77b9fc79e3'
+2023-03-26 00:39:56,893 - [fire_detector] - INFO - Count: 9	 ACK: b'c063b3047a814ecf996a8282b65c2af6'
+2023-03-26 00:39:57,925 - [fire_detector] - INFO - Count: 10	 ACK: b'36e3d69706374cc5a37e1f4e091e826e'
+2023-03-26 00:39:59,751 - [fire_detector] - INFO - Count: 11	 ACK: b'6ac84696a30a45f38175f558ea8e5165'
+2023-03-26 00:40:00,707 - [fire_detector] - INFO - Count: 12	 ACK: b'e67be3e0783e4195869f0f9cf0fa3b40'
+2023-03-26 00:40:03,010 - [fire_detector] - INFO - Count: 13	 ACK: b'c53b67b170394fc3aacc13a32b077619'
+2023-03-26 00:40:03,932 - [fire_detector] - INFO - Count: 14	 ACK: b'7dd0f3ee446242fba084253f35409b1e'
+2023-03-26 00:40:07,347 - [fire_detector] - INFO - Count: 15	 ACK: b'09e1bbb81edb47bebb6726ef071263be'
+2023-03-26 00:40:10,688 - [fire_detector] - INFO - Count: 16	 ACK: b'b69beaaa4e9b405987e47c971b98e7dc'
+2023-03-26 00:40:14,664 - [fire_detector] - INFO - Count: 17	 ACK: b'84d33edd5ba049b584ce1cd702c889e4'
+2023-03-26 00:40:21,073 - [fire_detector] - INFO - Count: 18	 ACK: b'134f3f3542d14b04bed4088b0b5d80c0'
+2023-03-26 00:40:21,889 - [fire_detector] - INFO - Count: 19	 ACK: b'19b165b83999452d82a64325b2b9f939'
+2023-03-26 00:40:25,066 - [fire_detector] - INFO - Count: 20	 ACK: b'841439ccc746425e87f4536cbf9e7a9c'
+2023-03-26 00:40:27,638 - [fire_detector] - INFO - Count: 21	 ACK: b'5b8f522a8c414e68b301cd0cc9a4e99e'
+2023-03-26 00:40:28,638 - [fire_detector] - INFO - Count: 22	 ACK: b'd003aba992674ffc996aeb507984792c'
+2023-03-26 00:40:29,688 - [fire_detector] - INFO - Count: 23	 ACK: b'91335ee64cde4979ac060515f605443e'
+2023-03-26 00:40:30,629 - [fire_detector] - INFO - Count: 24	 ACK: b'0767abd42f404f74a586338168f30dd9'
+2023-03-26 00:40:32,899 - [fire_detector] - INFO - Count: 25	 ACK: b'aa2d5899813542678abff896b8138680'
+2023-03-26 00:40:34,723 - [fire_detector] - INFO - Count: 26	 ACK: b'd509bd16b16943229c726d06320ce8f9'
+2023-03-26 00:40:41,696 - [fire_detector] - INFO - Count: 27	 ACK: b'a3c30d70ffb04c6d989ec38280ec8a9f'
+2023-03-26 00:40:44,868 - [fire_detector] - INFO - Count: 28	 ACK: b'cec7dfddb6034b9684ed0603f6790dde'
+2023-03-26 00:40:45,664 - [fire_detector] - INFO - Count: 29	 ACK: b'9ca87da69e5f4e08bf975a680885f678'
+2023-03-26 00:40:46,654 - [fire_detector] - INFO - Count: 30	 ACK: b'7534d3d3c5a348b1bc11354c7885e3c7'
+2023-03-26 00:40:48,697 - [fire_detector] - INFO - Count: 31	 ACK: b'4765072cf65b4e0996976f757103b248'
+2023-03-26 00:40:51,886 - [fire_detector] - INFO - Count: 32	 ACK: b'be83069997c641aa9a24daf9154510ca'
+2023-03-26 00:40:52,654 - [fire_detector] - INFO - Count: 33	 ACK: b'58d8b82368ac490a93f8fe42535a7e62'
+2023-03-26 00:40:54,719 - [fire_detector] - INFO - Count: 34	 ACK: b'b6973848e7244031a3de396bc158404d'
+2023-03-26 00:40:56,768 - [fire_detector] - INFO - Count: 35	 ACK: b'65b3eac7847b484bb1fa9553cae11a39'
+2023-03-26 00:40:57,705 - [fire_detector] - INFO - Count: 36	 ACK: b'1a35f5cad7184744b7898e7c1b267c82'
+2023-03-26 00:40:59,642 - [fire_detector] - INFO - Count: 37	 ACK: b'a3da3b39c43d4f8890b7266daf95acc7'
+2023-03-26 00:41:00,876 - [fire_detector] - INFO - Count: 38	 ACK: b'db56eaa2b9a448628d63d0249df48114'
+2023-03-26 00:41:01,681 - [fire_detector] - INFO - Count: 39	 ACK: b'79b429250dcc42d6a02c942388a933be'
+2023-03-26 00:41:02,647 - [fire_detector] - INFO - Count: 40	 ACK: b'4016b9042f7a4322806da951c0aa9564'
+2023-03-26 00:41:03,885 - [fire_detector] - INFO - Count: 41	 ACK: b'47bf7b25d27c45b9943d74ce8d9892ea'
+2023-03-26 00:41:04,913 - [fire_detector] - INFO - Count: 42	 ACK: b'2bc73cd559084c5d882fd255094d2e8f'
+2023-03-26 00:41:06,732 - [fire_detector] - INFO - Count: 43	 ACK: b'0262f59665a54d318deb8972f682623c'
+2023-03-26 00:41:07,682 - [fire_detector] - INFO - Count: 44	 ACK: b'221532272e8c472d82d7fc6a13a035a1'
+2023-03-26 00:41:12,746 - [fire_detector] - INFO - Count: 45	 ACK: b'790d2c27cb7147829c572b341127ffdd'
+2023-03-26 00:41:14,667 - [fire_detector] - INFO - Count: 46	 ACK: b'1aaf319124d7441a8160244a561ede8e'
+2023-03-26 00:41:16,721 - [fire_detector] - INFO - Count: 47	 ACK: b'377cd042319a4a6188274c78ddc64a5e'
+2023-03-26 00:41:17,689 - [fire_detector] - INFO - Count: 48	 ACK: b'17b478b9870446e0987e4ae786aa6124'
+2023-03-26 00:41:19,714 - [fire_detector] - INFO - Count: 49	 ACK: b'e940b2077f8f419f9944638d4b2eac7b'
+2023-03-26 00:41:23,691 - [fire_detector] - INFO - Count: 50	 ACK: b'7517a317871e4478918f354c3407dbfe'
+2023-03-26 00:41:29,876 - [fire_detector] - INFO - Count: 51	 ACK: b'a65b3746840640fa9f3a7097590eae77'
+2023-03-26 00:41:30,676 - [fire_detector] - INFO - Count: 52	 ACK: b'45ddb6087c6241f1a09071b2f78aa860'
+2023-03-26 00:41:32,722 - [fire_detector] - INFO - Count: 53	 ACK: b'98f0602b0f474aa9a981273d0b313972'
+2023-03-26 00:41:33,682 - [fire_detector] - INFO - Count: 54	 ACK: b'92e5dec10635448096c2c16527d2c170'
+2023-03-26 00:41:34,640 - [fire_detector] - INFO - Count: 55	 ACK: b'006678b0fe8c46d18aaefa07449e319b'
+2023-03-26 00:41:35,877 - [fire_detector] - INFO - Count: 56	 ACK: b'6090b1fcd67449b486528e627b2e19fd'
+2023-03-26 00:41:36,692 - [fire_detector] - INFO - Count: 57	 ACK: b'd238a95fcc3c4c6d8acc381a451c52b2'
+2023-03-26 00:41:38,725 - [fire_detector] - INFO - Count: 58	 ACK: b'bfbebadb357348999266806653ccb237'
+2023-03-26 00:41:39,696 - [fire_detector] - INFO - Count: 59	 ACK: b'9f53385f05774db2b36a317ccb29d328'
+2023-03-26 00:41:40,646 - [fire_detector] - INFO - Count: 60	 ACK: b'91a297119ddb4b428b65b42becaaf0f3'
+2023-03-26 00:41:41,659 - [fire_detector] - INFO - Count: 61	 ACK: b'cf7ca06034cd45f8bd04bc62bfad982e'
+2023-03-26 00:41:42,693 - [fire_detector] - INFO - Count: 62	 ACK: b'3825378bd69748e881c20160c44177ca'
+2023-03-26 00:41:43,651 - [fire_detector] - INFO - Count: 63	 ACK: b'7e1b3901bcdd4358bceb620d82646d09'
+2023-03-26 00:41:44,883 - [fire_detector] - INFO - Count: 64	 ACK: b'7fd77e60cafd4678b239ff726423649b'
+2023-03-26 00:41:46,677 - [fire_detector] - INFO - Count: 65	 ACK: b'adb95815b62c410f9a2efa1ed3814070'
+2023-03-26 00:41:48,357 - [fire_detector] - INFO - Count: 66	 ACK: b'3a1015ded5f846a9acbaae8bb266522a'
+2023-03-26 00:41:50,741 - [fire_detector] - INFO - Count: 67	 ACK: b'd598481f158a488aa6c724af7909dd69'
+2023-03-26 00:41:54,265 - [fire_detector] - INFO - Count: 68	 ACK: b'c7f744ad2d534d5cba4031a03fa68da7'
+2023-03-26 00:41:57,464 - [fire_detector] - INFO - Count: 69	 ACK: b'9139cbf2b91044a1bf5cc5070fb4e70c'
+2023-03-26 00:41:59,148 - [fire_detector] - INFO - Count: 70	 ACK: b'f0ed0e09dc1b4450b7ed2b042de6b752'
+2023-03-26 00:42:02,654 - [fire_detector] - INFO - Count: 71	 ACK: b'4d12cc544c1d4399b27afaa9a8aa7bc0'
+2023-03-26 00:42:04,709 - [fire_detector] - INFO - Count: 72	 ACK: b'28bd146348154a06b29fd397aca0ccd1'
+2023-03-26 00:42:09,751 - [fire_detector] - INFO - Count: 73	 ACK: b'37c6e05f18254e0da85ea085e70bfdc2'
+2023-03-26 00:42:15,253 - [fire_detector] - INFO - Count: 74	 ACK: b'db53085faf744bb0b939d54c0a9b9b9d'
+2023-03-26 00:42:20,699 - [fire_detector] - INFO - Count: 75	 ACK: b'ac5db0fe012c432bb184f6dcbcad801d'
+2023-03-26 00:42:22,740 - [fire_detector] - INFO - Count: 76	 ACK: b'cdcaf0eae80b4bc881ae32db46568951'
+2023-03-26 00:42:24,667 - [fire_detector] - INFO - Count: 77	 ACK: b'babd7ce0922e4b55a02b53cb61556efb'
+2023-03-26 00:42:28,667 - [fire_detector] - INFO - Count: 78	 ACK: b'3ae1b1d971ee426eb59eb7ed19a51d7a'
+2023-03-26 00:42:31,853 - [fire_detector] - INFO - Count: 79	 ACK: b'ac00210111aa4847addc605e9a2884be'
+2023-03-26 00:42:35,038 - [fire_detector] - INFO - Count: 80	 ACK: b'e07cc3e99fac40aabbcb42f4b38d86ba'
+2023-03-26 00:42:35,652 - [fire_detector] - INFO - Count: 81	 ACK: b'159df8044c3d4fa7822ed5902e272f9e'
+2023-03-26 00:42:36,876 - [fire_detector] - INFO - Count: 82	 ACK: b'eaa2af1b4f7f4ecaa124ca1beb2b302c'
+2023-03-26 00:42:40,057 - [fire_detector] - INFO - Count: 83	 ACK: b'348c4db3aa184061b1d3ef9661d154c6'
+2023-03-26 00:42:40,661 - [fire_detector] - INFO - Count: 84	 ACK: b'54733931fc5a4529a299702f05237067'
+2023-03-26 00:42:42,706 - [fire_detector] - INFO - Count: 85	 ACK: b'66b3718a2a8146c191c7c160abcf0363'
+2023-03-26 00:42:43,675 - [fire_detector] - INFO - Count: 86	 ACK: b'bd8bfb7c81cb4fbcb5952b5d53e6fc4f'
+2023-03-26 00:42:44,907 - [fire_detector] - INFO - Count: 87	 ACK: b'e7c7b7ef3da84ba7a7aca61910b1b0ef'
+2023-03-26 00:42:49,218 - [fire_detector] - INFO - Count: 88	 ACK: b'0a24bf91241c47219094c06f5d4a2c80'
+2023-03-26 00:42:49,679 - [fire_detector] - INFO - Count: 89	 ACK: b'eaf658dbf1054c8e9744616a3fc6250c'
+2023-03-26 00:42:50,655 - [fire_detector] - INFO - Count: 90	 ACK: b'556748f01d8e4258a6cbf1c46d53a7f8'
+2023-03-26 00:42:53,149 - [fire_detector] - INFO - Count: 91	 ACK: b'c88723ebe4e74a47b9dbf3a25e8a4327'
+2023-03-26 00:42:55,055 - [fire_detector] - INFO - Count: 92	 ACK: b'3bd04f5299284a5ea19a19e848ece5f3'
+2023-03-26 00:42:55,696 - [fire_detector] - INFO - Count: 93	 ACK: b'4aa81df8810b4f318d422dc37293cd5d'
+2023-03-26 00:42:56,656 - [fire_detector] - INFO - Count: 94	 ACK: b'e8cd47aa0a524e15b6b68d753060b6e5'
+2023-03-26 00:43:01,708 - [fire_detector] - INFO - Count: 95	 ACK: b'9f9e2a9a74c9449cb8eb3812cf2b4070'
+2023-03-26 00:43:02,677 - [fire_detector] - INFO - Count: 96	 ACK: b'ada65a0639a6449c9549eaf0401342b6'
+2023-03-26 00:43:04,706 - [fire_detector] - INFO - Count: 97	 ACK: b'd462b6b77df04becb2d373af0b188381'
+2023-03-26 00:43:07,367 - [fire_detector] - INFO - Count: 98	 ACK: b'2343a340d4b14bbcb781797e59bae22f'
+2023-03-26 00:43:07,733 - [fire_detector] - INFO - Count: 99	 ACK: b'ace1b2f3ee6c4a3ea3ac92eef9af063a'
+2023-03-26 00:43:11,227 - [fire_detector] - INFO - Count: 100	 ACK: b'3913ed34db5542cab159f255008aaf0e'
+2023-03-26 00:43:12,188 - [fire_detector] - INFO - Count: 101	 ACK: b'2418cac0fac44828aefc4206f233e1d5'
+2023-03-26 00:43:14,689 - [fire_detector] - INFO - Count: 102	 ACK: b'f1bbbf7bc5b8485b979f8cc2910d9237'
+2023-03-26 00:43:15,651 - [fire_detector] - INFO - Count: 103	 ACK: b'27dd666e518c47ffb36ba927b5ba4eab'
+2023-03-26 00:43:17,128 - [fire_detector] - INFO - Count: 104	 ACK: b'a603cab80cff4f1eb972ca9334683496'
+2023-03-26 00:43:19,400 - [fire_detector] - INFO - Count: 105	 ACK: b'3a49ff0e678b4695920fca948f3ea14f'
+2023-03-26 00:43:21,078 - [fire_detector] - INFO - Count: 106	 ACK: b'897d8a7715cd4253b148ed5312de3ef3'
+2023-03-26 00:43:26,714 - [fire_detector] - INFO - Count: 107	 ACK: b'03076b8541e6475d830b2fa3a15c7fa6'
+2023-03-26 00:43:27,681 - [fire_detector] - INFO - Count: 108	 ACK: b'ace36286073f4ed5a2addb929fcb8c67'
+2023-03-26 00:43:28,649 - [fire_detector] - INFO - Count: 109	 ACK: b'dc6ddb508e77406db357952030f3b61c'
+2023-03-26 00:43:34,831 - [fire_detector] - INFO - Count: 110	 ACK: b'98966686cac548c08e27c5f922fc4ab3'
+2023-03-26 00:43:36,690 - [fire_detector] - INFO - Count: 111	 ACK: b'9b96015e854e4d7a961ec234b46e7545'
+2023-03-26 00:43:38,751 - [fire_detector] - INFO - Count: 112	 ACK: b'850a313c41ed4b818171f7eacabdd29f'
+2023-03-26 00:43:41,469 - [fire_detector] - INFO - Count: 113	 ACK: b'1a91694cf48343438a39e0ed5cfc0676'
+2023-03-26 00:43:43,681 - [fire_detector] - INFO - Count: 114	 ACK: b'cf546ef78c034d83987f1fdf469e35b3'
+2023-03-26 00:43:44,642 - [fire_detector] - INFO - Count: 115	 ACK: b'dc61d2bc7ee54966a1d31d8da8a8928f'
+2023-03-26 00:43:46,703 - [fire_detector] - INFO - Count: 116	 ACK: b'0e9050abaac0499191e246f2aed5e666'
+2023-03-26 00:43:49,418 - [fire_detector] - INFO - Count: 117	 ACK: b'272b5fb6b27b4de280a8516bae388ee2'
+2023-03-26 00:43:51,565 - [fire_detector] - INFO - Count: 118	 ACK: b'5fcef875469c4ad7b8186ea7c770c9de'
+2023-03-26 00:43:52,890 - [fire_detector] - INFO - Count: 119	 ACK: b'f55053f1ee714111a9cafd9fd9e6b882'
+2023-03-26 00:43:53,878 - [fire_detector] - INFO - Count: 120	 ACK: b'bb1a198bedf14a5fb6302f7c1df031fd'
+2023-03-26 00:43:54,896 - [fire_detector] - INFO - Count: 121	 ACK: b'552e4ec6294448f1bf3376aa74187f01'
+2023-03-26 00:43:55,414 - [fire_detector] - INFO - Count: 122	 ACK: b'0817e4741f404c5093359fcf9269ea0b'
+2023-03-26 00:43:58,922 - [fire_detector] - INFO - Count: 123	 ACK: b'62df6ee0e7314805be0afdbecc571bc6'
+2023-03-26 00:44:02,096 - [fire_detector] - INFO - Count: 124	 ACK: b'b167509294344923b670a249d1aac3cc'
+2023-03-26 00:44:02,661 - [fire_detector] - INFO - Count: 125	 ACK: b'82a30bbb629c49f18f2adaf202cd8549'
+2023-03-26 00:44:05,833 - [fire_detector] - INFO - Count: 126	 ACK: b'cd6ed8961521467b9200aa5bb1bd2966'
+2023-03-26 00:44:07,702 - [fire_detector] - INFO - Count: 127	 ACK: b'92b84799101b42729dddf5f03744e287'
+2023-03-26 00:44:09,862 - [fire_detector] - INFO - Count: 128	 ACK: b'860914bc77d54303b07d243775023652'
+2023-03-26 00:44:10,882 - [fire_detector] - INFO - Count: 129	 ACK: b'0373b9fb940e4faf851dfb3b19ff77c9'
+2023-03-26 00:44:11,699 - [fire_detector] - INFO - Count: 130	 ACK: b'557356586a274a0db7fd74d43764ff10'
+2023-03-26 00:44:15,108 - [fire_detector] - INFO - Count: 131	 ACK: b'9c3eb2cd964941a28c24361738b3cea5'
+2023-03-26 00:44:15,654 - [fire_detector] - INFO - Count: 132	 ACK: b'3520c969d032466d9c0604a8030b6364'
+2023-03-26 00:44:16,914 - [fire_detector] - INFO - Count: 133	 ACK: b'bb4f453d78ae44b3afcb1b51a0a1d140'
+2023-03-26 00:44:18,891 - [fire_detector] - INFO - Count: 134	 ACK: b'12505aa338c94a3582c5d81c86f9b5dd'
+2023-03-26 00:44:19,167 - [fire_detector] - INFO - Count: 135	 ACK: b'4d576ac582b842dab32a9a6cade80939'
+2023-03-26 00:44:20,837 - [fire_detector] - INFO - Count: 136	 ACK: b'12ca463af5f443038070ddf4805a1ed8'
+2023-03-26 00:44:21,674 - [fire_detector] - INFO - Count: 137	 ACK: b'ff92f55877104ab8a5603b956a44955e'
+2023-03-26 00:44:25,878 - [fire_detector] - INFO - Count: 138	 ACK: b'c46c41d50ecf473ebf1ac2f88cabaac2'
+2023-03-26 00:44:27,130 - [fire_detector] - INFO - Count: 139	 ACK: b'8bcc070a27fe4b2d91a0a3c3296bd907'
+2023-03-26 00:44:27,902 - [fire_detector] - INFO - Count: 140	 ACK: b'24076bb053bf47318fe5b23e297d2c08'
+2023-03-26 00:44:31,656 - [fire_detector] - INFO - Count: 141	 ACK: b'1c989cc88116496cbff51d773aab7ba7'
+2023-03-26 00:44:34,834 - [fire_detector] - INFO - Count: 142	 ACK: b'ac36b89f22be4e1680c065283ac482bf'
+2023-03-26 00:44:35,895 - [fire_detector] - INFO - Count: 143	 ACK: b'53a5cd0358634960879501f946e89f55'
+2023-03-26 00:44:39,306 - [fire_detector] - INFO - Count: 144	 ACK: b'65f7a220087d49e6a185f2630de14627'
+2023-03-26 00:44:39,863 - [fire_detector] - INFO - Count: 145	 ACK: b'86e2f69a22a643df80c93cf9bcc08596'
+2023-03-26 00:44:43,266 - [fire_detector] - INFO - Count: 146	 ACK: b'9bc264d1dda243f19b51834d23f7e135'
+2023-03-26 00:44:45,874 - [fire_detector] - INFO - Count: 147	 ACK: b'146cda210fa64c579acccdb8ccb158d8'
+2023-03-26 00:44:46,738 - [fire_detector] - INFO - Count: 148	 ACK: b'b72c7512ee1c41cca1e0f579aab05f40'
+2023-03-26 00:44:47,118 - [fire_detector] - INFO - Count: 149	 ACK: b'05e946bb803c496a8173f24266c1ec27'
+2023-03-26 00:44:49,235 - [fire_detector] - INFO - Count: 150	 ACK: b'1a46aa77dc6c41b0b786b04eab668bb1'
+2023-03-26 00:44:57,466 - [fire_detector] - INFO - Count: 151	 ACK: b'7fd48c1ad75742f3b3c99a4a498dc1ae'
+2023-03-26 00:44:59,677 - [fire_detector] - INFO - Count: 152	 ACK: b'604475cce9614412bffa56db0de0e7d4'
+2023-03-26 00:45:00,854 - [fire_detector] - INFO - Count: 153	 ACK: b'508c2ddb641840069a6551dd11e413cf'
+2023-03-26 00:45:01,645 - [fire_detector] - INFO - Count: 154	 ACK: b'e2463975a39a43eb9f4a8fedcf34d993'
+2023-03-26 00:45:02,694 - [fire_detector] - INFO - Count: 155	 ACK: b'c609ae0e032f4e0ba7e5891d7a1d4ca7'
+2023-03-26 00:45:03,866 - [fire_detector] - INFO - Count: 156	 ACK: b'3c399ac713cc4b54bac6503c63ab2f0d'
+2023-03-26 00:45:07,656 - [fire_detector] - INFO - Count: 157	 ACK: b'406b08817a6542ad8567198d3795a49c'
+2023-03-26 00:45:09,684 - [fire_detector] - INFO - Count: 158	 ACK: b'1c2eaa0779cb494cbef726afa935a56c'
+2023-03-26 00:45:10,677 - [fire_detector] - INFO - Count: 159	 ACK: b'ba039f243e694348a44b9648251035ba'
+2023-03-26 00:45:12,675 - [fire_detector] - INFO - Count: 160	 ACK: b'9d93fe13874e465baeffed7564bcac4f'
+2023-03-26 00:45:13,845 - [fire_detector] - INFO - Count: 161	 ACK: b'7508fc51c6ef4aa288e0f2767fbe129e'
+2023-03-26 00:45:14,624 - [fire_detector] - INFO - Count: 162	 ACK: b'217d9096c4194f3bb92ec68bee23fba2'
+2023-03-26 00:45:15,889 - [fire_detector] - INFO - Count: 163	 ACK: b'f9360243768f488387045d65713da39a'
+2023-03-26 00:45:19,452 - [fire_detector] - INFO - Count: 164	 ACK: b'9fd47b9291ee40d7979a8fde28f79478'
+2023-03-26 00:45:25,614 - [fire_detector] - INFO - Count: 165	 ACK: b'4e834cb464db4ab2aac13111399e235a'
+2023-03-26 00:45:26,564 - [fire_detector] - INFO - Count: 166	 ACK: b'3c60ef8ddac14f888f19844229083048'
+2023-03-26 00:45:29,684 - [fire_detector] - INFO - Count: 167	 ACK: b'b5180e7985834ab1bcb700c2e6d0dca7'
+2023-03-26 00:45:32,808 - [fire_detector] - INFO - Count: 168	 ACK: b'a0e3efd59dbf4e52b5ece092dda21827'
+2023-03-26 00:45:34,029 - [fire_detector] - INFO - Count: 169	 ACK: b'63b046aca11745bdbca606b084bce739'
+2023-03-26 00:45:38,657 - [fire_detector] - INFO - Count: 170	 ACK: b'a53b0a37732c4a7992c65acfa89f8d47'
+2023-03-26 00:45:41,145 - [fire_detector] - INFO - Count: 171	 ACK: b'bc0dea99fc88466fb3b3761bb1e41500'
+2023-03-26 00:45:45,835 - [fire_detector] - INFO - Count: 172	 ACK: b'4baeb44505304826aeda32d4e3f539fa'
+2023-03-26 00:45:46,808 - [fire_detector] - INFO - Count: 173	 ACK: b'40a74888d154429f96bcec809214375b'
+2023-03-26 00:45:49,092 - [fire_detector] - INFO - Count: 174	 ACK: b'f94277e72b284586967c6e2dec0c0c69'
+2023-03-26 00:45:51,317 - [fire_detector] - INFO - Count: 175	 ACK: b'afa2a1d75ebf44b49e78f91423d3b476'
+2023-03-26 00:45:56,602 - [fire_detector] - INFO - Count: 176	 ACK: b'bc7c9e8bcb9a4843adbe4267cf87b317'
+2023-03-26 00:46:00,063 - [fire_detector] - INFO - Count: 177	 ACK: b'eece333586f84668b930580600757828'
+2023-03-26 00:46:01,075 - [fire_detector] - INFO - Count: 178	 ACK: b'3d4d2dfd77ec495a9bf75a46c60e28b8'
+2023-03-26 00:46:02,712 - [fire_detector] - INFO - Count: 179	 ACK: b'6bea26d9263a4ab7b62502e55f681e6e'
+2023-03-26 00:46:06,089 - [fire_detector] - INFO - Count: 180	 ACK: b'ab583f59a0094f53af710cc4592455bf'
+2023-03-26 00:46:06,535 - [fire_detector] - INFO - Count: 181	 ACK: b'90c917294bae411fb2571cf27429b612'
+2023-03-26 00:46:07,544 - [fire_detector] - INFO - Count: 182	 ACK: b'72ab4a3b785545a49ea71d6c7ea60764'
+2023-03-26 00:46:08,819 - [fire_detector] - INFO - Count: 183	 ACK: b'37a09c641bb94bbfacdb7ce37a3abc55'
+2023-03-26 00:46:09,799 - [fire_detector] - INFO - Count: 184	 ACK: b'70d3839976f646fb822aa3af4f213226'
+2023-03-26 00:46:10,565 - [fire_detector] - INFO - Count: 185	 ACK: b'87995a3f443947198cf5eaf63841471e'
+2023-03-26 00:46:12,815 - [fire_detector] - INFO - Count: 186	 ACK: b'db22994e577a49f4a29a8ea8ff2757d7'
+2023-03-26 00:46:13,776 - [fire_detector] - INFO - Count: 187	 ACK: b'bcc58378e739435291d41c550d3a9990'
+2023-03-26 00:46:17,247 - [fire_detector] - INFO - Count: 188	 ACK: b'029cf1826a29496e9629d8c8cc0c8f7e'
+2023-03-26 00:46:17,574 - [fire_detector] - INFO - Count: 189	 ACK: b'7641b5f8348e4e0c9eb1dcfe18877c41'
+2023-03-26 00:46:18,630 - [fire_detector] - INFO - Count: 190	 ACK: b'67ed46e7843f497098ba3c0e1d729619'
+2023-03-26 00:46:20,696 - [fire_detector] - INFO - Count: 191	 ACK: b'c3d8cbf0c5664752b8420dff40d45f70'
+2023-03-26 00:46:22,154 - [fire_detector] - INFO - Count: 192	 ACK: b'a82e4b3e2c93446a89a707e3e8d1de02'
+2023-03-26 00:46:22,882 - [fire_detector] - INFO - Count: 193	 ACK: b'a87f99ead9a44a10b1fcb94b6a733d90'
+2023-03-26 00:46:23,699 - [fire_detector] - INFO - Count: 194	 ACK: b'2cd520b261f64f36b9bc89491f39f5f0'
+2023-03-26 00:46:28,759 - [fire_detector] - INFO - Count: 195	 ACK: b'31aec7d7fa8b4efa8418fe005eb2a5b2'
+2023-03-26 00:46:29,705 - [fire_detector] - INFO - Count: 196	 ACK: b'bb342ab494524354be7922a5fefaebf6'
+2023-03-26 00:46:33,354 - [fire_detector] - INFO - Count: 197	 ACK: b'330a0b1b36fd4c6684a2a157f7913944'
+2023-03-26 00:46:35,034 - [fire_detector] - INFO - Count: 198	 ACK: b'a12ff7b72fcf47cb873674ce975c99ed'
+2023-03-26 00:46:35,874 - [fire_detector] - INFO - Count: 199	 ACK: b'8786a0fa41d049c48abdea046af9cbca'
+2023-03-26 00:46:40,001 - [fire_detector] - INFO - Count: 200	 ACK: b'9f2344c2b135446e8ddbd08b4db0e284'
+2023-03-26 00:46:40,175 - [fire_detector] - INFO - Count: 201	 ACK: b'3f68af9924c34b93a40751b6bebcb67c'
+2023-03-26 00:46:41,847 - [fire_detector] - INFO - Count: 202	 ACK: b'203879a542624e39b56359ef5b371dee'
+2023-03-26 00:46:42,694 - [fire_detector] - INFO - Count: 203	 ACK: b'2c5e676a04af40e898192cbf62213313'
+2023-03-26 00:46:43,653 - [fire_detector] - INFO - Count: 204	 ACK: b'd7707912f8944909bfb4496cabb8c18a'
+2023-03-26 00:46:45,711 - [fire_detector] - INFO - Count: 205	 ACK: b'a8a6cf66dd614d62823a572764bb26d2'
+2023-03-26 00:46:47,762 - [fire_detector] - INFO - Count: 206	 ACK: b'eb8b66db6ead4eb9b923915c41a2a20c'
+2023-03-26 00:46:48,718 - [fire_detector] - INFO - Count: 207	 ACK: b'4955f9f88808409c9315267918e0b5f4'
+2023-03-26 00:46:50,687 - [fire_detector] - INFO - Count: 208	 ACK: b'cb96238de8d240509453ff055a5cb493'
+2023-03-26 00:46:54,882 - [fire_detector] - INFO - Count: 209	 ACK: b'f4037475e50f4377bb9ca7f09282a628'
+2023-03-26 00:46:56,662 - [fire_detector] - INFO - Count: 210	 ACK: b'f300c4aea7c2456c84b7fb23e096e41a'
+2023-03-26 00:46:58,701 - [fire_detector] - INFO - Count: 211	 ACK: b'4f94680df0a941e9a3f51ff9c4778cbc'
+2023-03-26 00:47:05,119 - [fire_detector] - INFO - Count: 212	 ACK: b'22e640bb44304dfcbd3ffde9fff20398'
+2023-03-26 00:47:07,726 - [fire_detector] - INFO - Count: 213	 ACK: b'cdafa31647d74628b556f84e1f905d62'
+2023-03-26 00:47:08,685 - [fire_detector] - INFO - Count: 214	 ACK: b'481772ef936c431dbcf1a231011ec8db'
+2023-03-26 00:47:12,339 - [fire_detector] - INFO - Count: 215	 ACK: b'aef8db3579b64f6880028d9ee326042c'
+2023-03-26 00:47:14,268 - [fire_detector] - INFO - Count: 216	 ACK: b'657be1e6b6a54b1894c6ed304951fd6a'
+2023-03-26 00:47:15,957 - [fire_detector] - INFO - Count: 217	 ACK: b'0f26d413f5144ca190bc0ef9aabc229d'
+2023-03-26 00:47:16,868 - [fire_detector] - INFO - Count: 218	 ACK: b'd42b55e5f92f4416a729f2fdb31b5bd2'
+2023-03-26 00:47:17,720 - [fire_detector] - INFO - Count: 219	 ACK: b'b43703d20ca941cf802ea8783597bf9a'
+2023-03-26 00:47:20,914 - [fire_detector] - INFO - Count: 220	 ACK: b'141d7135bfd24dd084b63741e711dc7d'
+2023-03-26 00:47:24,695 - [fire_detector] - INFO - Count: 221	 ACK: b'6147dc87dd084066b66cafeb692a3fc3'
+2023-03-26 00:47:25,718 - [fire_detector] - INFO - Count: 222	 ACK: b'53fee66153864dd0b59559ae0259a726'
+2023-03-26 00:47:26,762 - [fire_detector] - INFO - Count: 223	 ACK: b'cf14962a4b8145eaa551aedf73de6dda'
+2023-03-26 00:47:27,750 - [fire_detector] - INFO - Count: 224	 ACK: b'96a6b43b31f04218ba2fd0cb508b6e12'
+2023-03-26 00:47:29,740 - [fire_detector] - INFO - Count: 225	 ACK: b'cee6495d034f4df49447182f8389ce88'
+2023-03-26 00:47:30,700 - [fire_detector] - INFO - Count: 226	 ACK: b'6cd28e3a9c3b4589a84cc272a3b32b21'
+2023-03-26 00:47:32,742 - [fire_detector] - INFO - Count: 227	 ACK: b'b8438ecce5324a2bbe32c5fc9f7e72d4'
+2023-03-26 00:47:36,945 - [fire_detector] - INFO - Count: 228	 ACK: b'66929b6a846444c9bc6bf7d99019fe20'
+2023-03-26 00:47:38,447 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:47:38,447 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:47:38,448 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:47:38,726 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:47:39,401 - [fire_detector] - INFO - Count: 1	 ACK: b'bec0c6fe0bc044439ba2a0e93b396d4d'
+2023-03-26 00:47:41,165 - [fire_detector] - INFO - Count: 2	 ACK: b'4b2c1bb11e214abfa24b331115fe6ba2'
+2023-03-26 00:47:43,690 - [fire_detector] - INFO - Count: 3	 ACK: b'36ae4db120054849a600bf2b08e4a050'
+2023-03-26 00:47:44,852 - [fire_detector] - INFO - Count: 4	 ACK: b'210275d4dcd241aaadeeee0880f9f7fa'
+2023-03-26 00:47:46,704 - [fire_detector] - INFO - Count: 5	 ACK: b'd6ba1f4b5f9f4541a05aa5fb8d05ff7c'
+2023-03-26 00:47:50,868 - [fire_detector] - INFO - Count: 6	 ACK: b'ffaf821a28484efaa9b417848fa2e99b'
+2023-03-26 00:47:51,876 - [fire_detector] - INFO - Count: 7	 ACK: b'5ea28d633c5e44b08e26ce3bc869ce06'
+2023-03-26 00:47:54,878 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:47:54,879 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:47:54,879 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:47:54,881 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 00:48:03,102 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:48:03,214 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 00:48:03,214 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 00:48:03,215 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 00:57:12,902 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 00:57:13,940 - [fire_detector] - INFO - Count: 1	 ACK: b'89169872ce4c4e36a1c9c310a6850d74'
+2023-03-26 00:57:16,447 - [fire_detector] - INFO - Count: 2	 ACK: b'40d35fadcfe24fb5b7157ae45ab15fcc'
+2023-03-26 00:57:18,784 - [fire_detector] - INFO - Count: 3	 ACK: b'4e5e7ddf815a44019d9a84f6ffd7e908'
+2023-03-26 00:57:19,978 - [fire_detector] - INFO - Count: 4	 ACK: b'de3d1a473ade48e39b062f57b7571cb0'
+2023-03-26 00:57:23,945 - [fire_detector] - INFO - Count: 5	 ACK: b'e1c4268ef4a34428a92df87e2e9c0d35'
+2023-03-26 00:57:24,739 - [fire_detector] - INFO - Count: 6	 ACK: b'f3e27e26c671468e85bf8fe27e9549f6'
+2023-03-26 00:57:25,995 - [fire_detector] - INFO - Count: 7	 ACK: b'5d2a6805d46a4a72b153f7ebde8ec979'
+2023-03-26 00:57:30,812 - [fire_detector] - INFO - Count: 8	 ACK: b'b100feb775a94b8aae3e6a56d9ee0da2'
+2023-03-26 00:57:32,960 - [fire_detector] - INFO - Count: 9	 ACK: b'cee13b3258f04f4d88c0f85eb822ddb9'
+2023-03-26 00:57:33,721 - [fire_detector] - INFO - Count: 10	 ACK: b'cb145fce098345589f99f0a428b6c8fe'
+2023-03-26 00:57:34,965 - [fire_detector] - INFO - Count: 11	 ACK: b'537a1b74b3c94da7988f9307dfaed8f5'
+2023-03-26 00:57:38,761 - [fire_detector] - INFO - Count: 12	 ACK: b'2f5d14c9a42d4ac6bbcc5c2ab886b082'
+2023-03-26 00:57:39,727 - [fire_detector] - INFO - Count: 13	 ACK: b'5390f958d56d4a6ca3d755c6595def0b'
+2023-03-26 00:57:41,786 - [fire_detector] - INFO - Count: 14	 ACK: b'3a5406d4467a48aa94ee56dd2587189d'
+2023-03-26 00:57:45,299 - [fire_detector] - INFO - Count: 15	 ACK: b'ee2b769a12734404857e229070e6bb80'
+2023-03-26 00:57:45,954 - [fire_detector] - INFO - Count: 16	 ACK: b'a6b104c42a064ce7b9d15ccd256286eb'
+2023-03-26 00:57:46,745 - [fire_detector] - INFO - Count: 17	 ACK: b'd9d964133cd744409babb017636e698e'
+2023-03-26 00:57:47,804 - [fire_detector] - INFO - Count: 18	 ACK: b'e2eeacdbc6a4479eb67cb43c4f4e4d59'
+2023-03-26 00:57:51,438 - [fire_detector] - INFO - Count: 19	 ACK: b'6ea380ed13034d7f8cbb47b1dc72d5eb'
+2023-03-26 00:57:51,757 - [fire_detector] - INFO - Count: 20	 ACK: b'16c90d3ca4884b2bb2b70141e84a42c4'
+2023-03-26 00:57:54,256 - [fire_detector] - INFO - Count: 21	 ACK: b'eaed7a9ea2634955a5e2df4d7e89a416'
+2023-03-26 00:57:55,918 - [fire_detector] - INFO - Count: 22	 ACK: b'14fb835929ff40549d0f32d448d775d3'
+2023-03-26 00:57:59,086 - [fire_detector] - INFO - Count: 23	 ACK: b'960a935b8deb49d1a26b13c3a1031778'
+2023-03-26 00:58:01,235 - [fire_detector] - INFO - Count: 24	 ACK: b'79de6d8b34d24694ae45dcae07cd1f06'
+2023-03-26 00:58:03,786 - [fire_detector] - INFO - Count: 25	 ACK: b'de4fad774ac0400fa71a052505886108'
+2023-03-26 00:58:04,740 - [fire_detector] - INFO - Count: 26	 ACK: b'ae8a135216c14cd9b6ecd74b8f645733'
+2023-03-26 00:58:05,740 - [fire_detector] - INFO - Count: 27	 ACK: b'7ece9b2e9c844b3d843c9a872c9f8eca'
+2023-03-26 00:58:09,140 - [fire_detector] - INFO - Count: 28	 ACK: b'72c81e23ad9b406c9559207a39c8c434'
+2023-03-26 00:58:09,931 - [fire_detector] - INFO - Count: 29	 ACK: b'00cc4c302ed648bd81f2a576824f0e33'
+2023-03-26 00:58:11,727 - [fire_detector] - INFO - Count: 30	 ACK: b'5c491981932e4a57b2ffb2ae2b74e7cc'
+2023-03-26 00:58:13,770 - [fire_detector] - INFO - Count: 31	 ACK: b'cd47ef8f9c1b48d0a8be101757c80390'
+2023-03-26 00:58:15,821 - [fire_detector] - INFO - Count: 32	 ACK: b'ec557dd5fa9e437f9af3b5bad3f4881f'
+2023-03-26 00:58:16,770 - [fire_detector] - INFO - Count: 33	 ACK: b'583ee739639d4129893f3ad936b4cc70'
+2023-03-26 00:58:17,747 - [fire_detector] - INFO - Count: 34	 ACK: b'ff0c108f6f114bf5a4929003864d9212'
+2023-03-26 00:58:19,775 - [fire_detector] - INFO - Count: 35	 ACK: b'2117a9e947384995bb91e776f7c2f8ba'
+2023-03-26 00:58:20,754 - [fire_detector] - INFO - Count: 36	 ACK: b'bf1d9c38d0944281a761e473e782b962'
+2023-03-26 00:58:27,725 - [fire_detector] - INFO - Count: 37	 ACK: b'9cc92b7118fb4b41a5929b7363a4b9f7'
+2023-03-26 00:58:29,201 - [fire_detector] - INFO - Count: 38	 ACK: b'4452f22ed79642afa46989582c8400b1'
+2023-03-26 00:58:29,774 - [fire_detector] - INFO - Count: 39	 ACK: b'309de782801148d9a463c44a9c5ba3b4'
+2023-03-26 00:58:30,733 - [fire_detector] - INFO - Count: 40	 ACK: b'abd49d3a3c744bd7bba43aca305d72b6'
+2023-03-26 00:58:31,741 - [fire_detector] - INFO - Count: 41	 ACK: b'b25dc6ba74504a508130b30eeeeb668f'
+2023-03-26 00:58:32,788 - [fire_detector] - INFO - Count: 42	 ACK: b'cff4e1762c9f472cbcf16594dd7e9f28'
+2023-03-26 00:58:36,742 - [fire_detector] - INFO - Count: 43	 ACK: b'0a5afbcf773a4097b39bc1c82cd15899'
+2023-03-26 00:58:37,975 - [fire_detector] - INFO - Count: 44	 ACK: b'42a5177615ff492eb90c6566b7e560ff'
+2023-03-26 00:58:41,156 - [fire_detector] - INFO - Count: 45	 ACK: b'455c64f2330644a4942d362b256b6d4f'
+2023-03-26 00:58:41,793 - [fire_detector] - INFO - Count: 46	 ACK: b'7fe0dc2191ad4182b09bba01d69f09af'
+2023-03-26 00:58:43,845 - [fire_detector] - INFO - Count: 47	 ACK: b'448c13f8f11f452e97911ac1381a93fa'
+2023-03-26 00:58:44,815 - [fire_detector] - INFO - Count: 48	 ACK: b'607c1a8dae724802a7f3864884909628'
+2023-03-26 00:58:49,736 - [fire_detector] - INFO - Count: 49	 ACK: b'91ad4f3078ae4813b251a382accdadeb'
+2023-03-26 00:58:54,782 - [fire_detector] - INFO - Count: 50	 ACK: b'e647a25b420742628fafac47aaf60f4b'
+2023-03-26 00:58:58,421 - [fire_detector] - INFO - Count: 51	 ACK: b'3e36c62b777b40b2b05b645e1bb3d6b4'
+2023-03-26 00:58:58,753 - [fire_detector] - INFO - Count: 52	 ACK: b'62bdc9934cca42a38e12501a3a9a076f'
+2023-03-26 00:59:03,804 - [fire_detector] - INFO - Count: 53	 ACK: b'80ad4cbfaff04436bac4bba6a4830b1e'
+2023-03-26 00:59:07,777 - [fire_detector] - INFO - Count: 54	 ACK: b'45346a6c8dfb4fdba0afd63eaf278b64'
+2023-03-26 00:59:09,830 - [fire_detector] - INFO - Count: 55	 ACK: b'f4caa760aa9d4c629e460a3326e407d3'
+2023-03-26 00:59:11,748 - [fire_detector] - INFO - Count: 56	 ACK: b'cf29bb323ef746cbaaee96133c5151f2'
+2023-03-26 00:59:16,803 - [fire_detector] - INFO - Count: 57	 ACK: b'3607a0b22fa94aad951acf6e08ca7e2c'
+2023-03-26 00:59:17,755 - [fire_detector] - INFO - Count: 58	 ACK: b'07a82b511ef240a595664871d24e4fc6'
+2023-03-26 00:59:19,223 - [fire_detector] - INFO - Count: 59	 ACK: b'15f0254d3e1742b0a58b8d7269f16413'
+2023-03-26 00:59:21,723 - [fire_detector] - INFO - Count: 60	 ACK: b'a54878aae39f4c27beb487b28872fa3f'
+2023-03-26 00:59:22,951 - [fire_detector] - INFO - Count: 61	 ACK: b'b1954d0f9f254561902908978c11fa58'
+2023-03-26 00:59:23,765 - [fire_detector] - INFO - Count: 62	 ACK: b'd946da4c2fcb4ad4ad8ee9ae59c70bbe'
+2023-03-26 00:59:24,724 - [fire_detector] - INFO - Count: 63	 ACK: b'ad148b7261104c7a98cce4cdc2bec67d'
+2023-03-26 00:59:25,966 - [fire_detector] - INFO - Count: 64	 ACK: b'fa051a8dd3a4446eafe79c0be2e5674c'
+2023-03-26 00:59:27,733 - [fire_detector] - INFO - Count: 65	 ACK: b'821b59d9032d44159e89a80a3d7a847e'
+2023-03-26 00:59:29,017 - [fire_detector] - INFO - Count: 66	 ACK: b'26b0abc2d8204ce4bca3588468cbf4c9'
+2023-03-26 00:59:30,959 - [fire_detector] - INFO - Count: 67	 ACK: b'114a574c35e54017ade5559e071ebc0d'
+2023-03-26 00:59:31,735 - [fire_detector] - INFO - Count: 68	 ACK: b'94612875d752427888eaf42d6e222cc4'
+2023-03-26 00:59:34,912 - [fire_detector] - INFO - Count: 69	 ACK: b'597a8c66941b4bd4a1c228bc0e69fe24'
+2023-03-26 00:59:36,750 - [fire_detector] - INFO - Count: 70	 ACK: b'1c2b9672e7284d6abbf70169f61d4b24'
+2023-03-26 00:59:37,989 - [fire_detector] - INFO - Count: 71	 ACK: b'43668d86cae14fb0ac0fe7db5a505b85'
+2023-03-26 00:59:39,973 - [fire_detector] - INFO - Count: 72	 ACK: b'd33e1f63c7ec40bcab704bb42f83fb89'
+2023-03-26 00:59:40,686 - [fire_detector] - INFO - Count: 73	 ACK: b'92edcd79a09749189c1ad86307bb70c2'
+2023-03-26 00:59:46,858 - [fire_detector] - INFO - Count: 74	 ACK: b'de00baa5bdb94091b19875ea71188098'
+2023-03-26 00:59:50,722 - [fire_detector] - INFO - Count: 75	 ACK: b'e2d3d465b057460c81b9284295520213'
+2023-03-26 00:59:51,999 - [fire_detector] - INFO - Count: 76	 ACK: b'5e5b6456feb84642b3c5675885f0677b'
+2023-03-26 00:59:59,942 - [fire_detector] - INFO - Count: 77	 ACK: b'566e46a7ced94e90a88e4ab6cb933adf'
+2023-03-26 02:00:00,951 - [fire_detector] - INFO - Count: 78	 ACK: b'072bf82f3d754b3c929de3d923b5eaec'
+2023-03-26 02:00:02,733 - [fire_detector] - INFO - Count: 79	 ACK: b'bd84d5f20e3741f69193c981a4ef652f'
+2023-03-26 02:00:04,818 - [fire_detector] - INFO - Count: 80	 ACK: b'd78e7822368e42048a29be7322a69cd5'
+2023-03-26 02:00:05,851 - [fire_detector] - INFO - Count: 81	 ACK: b'5b58602acbc2493caebd95c069fda6c4'
+2023-03-26 02:00:06,973 - [fire_detector] - INFO - Count: 82	 ACK: b'b4fcb6f18d4041e399a59d7479a7a92f'
+2023-03-26 02:00:11,756 - [fire_detector] - INFO - Count: 83	 ACK: b'ecc2a389b69d4deaa79fd178c5f90d73'
+2023-03-26 02:00:16,803 - [fire_detector] - INFO - Count: 84	 ACK: b'bbabfae62bf840a7b54ea75e505a0db6'
+2023-03-26 02:00:17,771 - [fire_detector] - INFO - Count: 85	 ACK: b'150e7d899d5d49bcb9f582fd77aba610'
+2023-03-26 02:00:18,722 - [fire_detector] - INFO - Count: 86	 ACK: b'9434047ac7184849b76d49f2604b79de'
+2023-03-26 02:00:19,959 - [fire_detector] - INFO - Count: 87	 ACK: b'dba63e6447af42a7b3eada703169ae20'
+2023-03-26 02:00:20,768 - [fire_detector] - INFO - Count: 88	 ACK: b'92fb382bdb324ed585683df3a5a9be55'
+2023-03-26 02:00:23,937 - [fire_detector] - INFO - Count: 89	 ACK: b'5cfb62f490fc43ca8f6949edafb86040'
+2023-03-26 02:00:25,830 - [fire_detector] - INFO - Count: 90	 ACK: b'df7bcc689d7b468aaca05fa7369f6bac'
+2023-03-26 02:00:26,784 - [fire_detector] - INFO - Count: 91	 ACK: b'4b0eeaa812294098b3bb57f8eb9b5881'
+2023-03-26 02:00:33,767 - [fire_detector] - INFO - Count: 92	 ACK: b'55527eb5ba7b4337b2eb9eeb8c764f0c'
+2023-03-26 02:00:36,944 - [fire_detector] - INFO - Count: 93	 ACK: b'fb3a81c3bc1c43a1bbc188dbcdc8027b'
+2023-03-26 02:00:38,816 - [fire_detector] - INFO - Count: 94	 ACK: b'5d4a5ee6e4ab41cdb40196b52daf88a7'
+2023-03-26 02:00:39,771 - [fire_detector] - INFO - Count: 95	 ACK: b'c9e978bd32f34637b2c225ad8483c276'
+2023-03-26 02:00:40,742 - [fire_detector] - INFO - Count: 96	 ACK: b'17ac218d30914db1bd1af2d8b60a67fc'
+2023-03-26 02:00:41,738 - [fire_detector] - INFO - Count: 97	 ACK: b'd2957bd211974184a95ed2f97d2eadb6'
+2023-03-26 02:00:45,140 - [fire_detector] - INFO - Count: 98	 ACK: b'5c8833df43794bf2b3ed989210fd1ba7'
+2023-03-26 02:00:47,737 - [fire_detector] - INFO - Count: 99	 ACK: b'e7c78a312f084f59911cb91e0fb15a54'
+2023-03-26 02:00:49,766 - [fire_detector] - INFO - Count: 100	 ACK: b'db54b925be84456fbbc8c50d52c61c7e'
+2023-03-26 02:00:50,996 - [fire_detector] - INFO - Count: 101	 ACK: b'8f115adaa6984819b88ade042c66cc9a'
+2023-03-26 02:00:51,804 - [fire_detector] - INFO - Count: 102	 ACK: b'6fc9327c6b7248d18df26d1cac31852f'
+2023-03-26 02:00:56,739 - [fire_detector] - INFO - Count: 103	 ACK: b'7227a7eebcb8411a8f10b75e50e7366c'
+2023-03-26 02:00:57,751 - [fire_detector] - INFO - Count: 104	 ACK: b'ec4d2f635b6e47e89ad5139a9d83bd63'
+2023-03-26 02:00:59,426 - [fire_detector] - INFO - Count: 105	 ACK: b'7f8d70e0b74b401293bd235df6011b7b'
+2023-03-26 02:01:01,326 - [fire_detector] - INFO - Count: 106	 ACK: b'eb22b23a49854b73a0a207fee7e05ebc'
+2023-03-26 02:01:01,509 - [fire_detector] - INFO - Count: 107	 ACK: b'14610147b98a413f9cd603b8ef68204e'
+2023-03-26 02:01:03,190 - [fire_detector] - INFO - Count: 108	 ACK: b'396eb78c7812452eb5002b8c7cb105c5'
+2023-03-26 02:01:03,968 - [fire_detector] - INFO - Count: 109	 ACK: b'f85e3b93531c42feb28a9d01bac837d6'
+2023-03-26 02:01:04,794 - [fire_detector] - INFO - Count: 110	 ACK: b'fd0eda3570284ac5908c218f473582dd'
+2023-03-26 02:01:05,746 - [fire_detector] - INFO - Count: 111	 ACK: b'bbfc9a08d6f04fd8a3baf0acb1016917'
+2023-03-26 02:01:07,795 - [fire_detector] - INFO - Count: 112	 ACK: b'57b2a9464b8546bfa8d3616727d693f1'
+2023-03-26 02:01:08,756 - [fire_detector] - INFO - Count: 113	 ACK: b'142a79fc75384c789b3aab72beb6b9ee'
+2023-03-26 02:01:09,809 - [fire_detector] - INFO - Count: 114	 ACK: b'f8547e58cc374ae4857b38e099c65868'
+2023-03-26 02:01:14,776 - [fire_detector] - INFO - Count: 115	 ACK: b'103e297206844ed2b382a0fa7da4599b'
+2023-03-26 02:01:15,747 - [fire_detector] - INFO - Count: 116	 ACK: b'7c9e6056748445428d70e0f1b5c62900'
+2023-03-26 02:01:18,925 - [fire_detector] - INFO - Count: 117	 ACK: b'5d9b15c2142a426f82df6d29cc0730ae'
+2023-03-26 02:01:20,783 - [fire_detector] - INFO - Count: 118	 ACK: b'7165c1d602e14eaca53c1f98322e4e87'
+2023-03-26 02:01:21,749 - [fire_detector] - INFO - Count: 119	 ACK: b'dc73b913f6a14abc822cc80e2cc3020b'
+2023-03-26 02:01:26,808 - [fire_detector] - INFO - Count: 120	 ACK: b'bd6b60174b0a4433ba245997f6ff57ff'
+2023-03-26 02:01:28,732 - [fire_detector] - INFO - Count: 121	 ACK: b'87eef6ff3f92413e88f9a0c8e19c30f7'
+2023-03-26 02:01:32,958 - [fire_detector] - INFO - Count: 122	 ACK: b'95f9dc9d501f48929d76717644df2d74'
+2023-03-26 02:01:33,786 - [fire_detector] - INFO - Count: 123	 ACK: b'a2411d3bcc09466db37f5a3fc0ef8b68'
+2023-03-26 02:01:35,832 - [fire_detector] - INFO - Count: 124	 ACK: b'26721ac946964085a0e2ba77902addf9'
+2023-03-26 02:01:39,023 - [fire_detector] - INFO - Count: 125	 ACK: b'e0488ed19f2745ce945bd76fe607844d'
+2023-03-26 02:01:39,983 - [fire_detector] - INFO - Count: 126	 ACK: b'011df5c229d341e8bb47b06c10382ee8'
+2023-03-26 02:01:44,852 - [fire_detector] - INFO - Count: 127	 ACK: b'dc69e1ade3fe43f898c02ff298e6f6ed'
+2023-03-26 02:01:46,091 - [fire_detector] - INFO - Count: 128	 ACK: b'47a370f0601c41cba2a87b0d8055f86c'
+2023-03-26 02:01:48,010 - [fire_detector] - INFO - Count: 129	 ACK: b'0e3d6d26d56e49d8b5c01ec05a35edca'
+2023-03-26 02:01:48,971 - [fire_detector] - INFO - Count: 130	 ACK: b'fd9d2a29b7e7464cae858742eb4a8830'
+2023-03-26 02:01:50,742 - [fire_detector] - INFO - Count: 131	 ACK: b'580d6553c06448618c49ec00dd088adf'
+2023-03-26 02:01:51,984 - [fire_detector] - INFO - Count: 132	 ACK: b'5f254f06aca24bf6b12921ed57a6bf88'
+2023-03-26 02:01:52,789 - [fire_detector] - INFO - Count: 133	 ACK: b'409fef5efb0744a29e3eff08d81c1333'
+2023-03-26 02:01:53,733 - [fire_detector] - INFO - Count: 134	 ACK: b'07fc9d8cb95c46dfaf9a2fe7f170803c'
+2023-03-26 02:01:54,972 - [fire_detector] - INFO - Count: 135	 ACK: b'8a7e10bc625742c0a7afd4adfcb5ab76'
+2023-03-26 02:01:55,791 - [fire_detector] - INFO - Count: 136	 ACK: b'3340350442994d6f98e8e775f4b18164'
+2023-03-26 02:01:57,843 - [fire_detector] - INFO - Count: 137	 ACK: b'73ee4308138f491ba5c64edc07dac1fb'
+2023-03-26 02:01:58,798 - [fire_detector] - INFO - Count: 138	 ACK: b'50a4a7001e45497c8785fcfcdea1c89e'
+2023-03-26 02:01:59,761 - [fire_detector] - INFO - Count: 139	 ACK: b'e9ef9f46578f40058127637ec087eb2c'
+2023-03-26 02:02:01,801 - [fire_detector] - INFO - Count: 140	 ACK: b'67b1075ede25470abdf4d27276593020'
+2023-03-26 02:02:03,302 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:02:03,303 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 02:02:03,303 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 02:02:03,304 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 02:02:13,826 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:02:14,824 - [fire_detector] - INFO - Count: 1	 ACK: b'0a17992232124d58b31704e1e07def18'
+2023-03-26 02:02:16,835 - [fire_detector] - INFO - Count: 2	 ACK: b'280018dbb0c74a49a4b132862c66085f'
+2023-03-26 02:02:17,811 - [fire_detector] - INFO - Count: 3	 ACK: b'a6e90a6a68784f7fa44e13c740fd9e71'
+2023-03-26 02:02:18,756 - [fire_detector] - INFO - Count: 4	 ACK: b'ae93a6c0b7fc4efa968effc5b3936f4c'
+2023-03-26 02:02:19,982 - [fire_detector] - INFO - Count: 5	 ACK: b'e41dc50c2bbe442f97cb70efe57cb471'
+2023-03-26 02:02:21,764 - [fire_detector] - INFO - Count: 6	 ACK: b'2f22dd35ce0643d3a934047b4e8497b9'
+2023-03-26 02:02:22,942 - [fire_detector] - INFO - Count: 7	 ACK: b'7a24e1e763284ebd94c8053408756741'
+2023-03-26 02:02:26,954 - [fire_detector] - INFO - Count: 8	 ACK: b'9724057129cf4527acfbb18994bd4d0e'
+2023-03-26 02:02:28,951 - [fire_detector] - INFO - Count: 9	 ACK: b'3996aac33635400f940af65857a690ab'
+2023-03-26 02:02:32,735 - [fire_detector] - INFO - Count: 10	 ACK: b'0b57da259e964781a2f3999851ddc61d'
+2023-03-26 02:02:36,784 - [fire_detector] - INFO - Count: 11	 ACK: b'f5018d97d4574d3da5bc0c2dafbfd507'
+2023-03-26 02:02:37,759 - [fire_detector] - INFO - Count: 12	 ACK: b'157c42e386af491b9cfc5c50875553fb'
+2023-03-26 02:02:41,737 - [fire_detector] - INFO - Count: 13	 ACK: b'd43c3379aa3f41778242909b7d68ec09'
+2023-03-26 02:02:42,970 - [fire_detector] - INFO - Count: 14	 ACK: b'2f0fd92da4984904b8cfb8fc3b080c9e'
+2023-03-26 02:02:43,773 - [fire_detector] - INFO - Count: 15	 ACK: b'cc21687e6b694408a4d14fd45f1b1d6d'
+2023-03-26 02:02:47,745 - [fire_detector] - INFO - Count: 16	 ACK: b'3b32656350c34339b0b2ccf9eaa0a18b'
+2023-03-26 02:02:48,979 - [fire_detector] - INFO - Count: 17	 ACK: b'964e1ab2e0154349bba2363bab8eeb11'
+2023-03-26 02:02:50,022 - [fire_detector] - INFO - Count: 18	 ACK: b'ad52c15f461c4514bc401ee6122bf94e'
+2023-03-26 02:02:53,740 - [fire_detector] - INFO - Count: 19	 ACK: b'9a620a835e65484e9b3bcec95dca0512'
+2023-03-26 02:02:55,082 - [fire_detector] - INFO - Count: 20	 ACK: b'80aeeb2e29d545ad807d4757830847c7'
+2023-03-26 02:03:01,824 - [fire_detector] - INFO - Count: 21	 ACK: b'fb3296a26f274616ab050e5b181e4108'
+2023-03-26 02:03:04,826 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:03:04,827 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 02:03:04,827 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 02:03:04,827 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 02:03:50,213 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:03:50,233 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 02:03:50,234 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 02:03:50,235 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 02:09:52,338 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:09:53,718 - [fire_detector] - INFO - Count: 1	 ACK: b'7613c9f2d28441aaa916540a65a1a743'
+2023-03-26 02:09:55,400 - [fire_detector] - INFO - Count: 2	 ACK: b'9fc71100f4674b4094961886435534ce'
+2023-03-26 02:09:59,202 - [fire_detector] - INFO - Count: 3	 ACK: b'8d9dab3fd464422e925ad3f859f18ff2'
+2023-03-26 02:10:02,597 - [fire_detector] - INFO - Count: 4	 ACK: b'5e80f755f81f4bc381be0b6316203008'
+2023-03-26 02:10:03,214 - [fire_detector] - INFO - Count: 5	 ACK: b'9faf1b8829904f75a67a943a2cb6d056'
+2023-03-26 02:10:03,975 - [fire_detector] - INFO - Count: 6	 ACK: b'0b81ae3c0fad469185899b345eb0881a'
+2023-03-26 02:10:07,152 - [fire_detector] - INFO - Count: 7	 ACK: b'327b1dbafb2547a58d05533e1d4b9e9e'
+2023-03-26 02:10:07,992 - [fire_detector] - INFO - Count: 8	 ACK: b'ff7a45eadf0744eaa970de07f6996cd2'
+2023-03-26 02:10:09,261 - [fire_detector] - INFO - Count: 9	 ACK: b'7573574d5571403fb1ba6c7c04b51025'
+2023-03-26 02:10:11,092 - [fire_detector] - INFO - Count: 10	 ACK: b'bf548ed0d2404d82a561767988db1e03'
+2023-03-26 02:10:12,330 - [fire_detector] - INFO - Warning: FileNotFound Error - failed to parse a10e5c770ee34097b776dcc8f8280c3c
+2023-03-26 02:10:12,593 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:10:12,593 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 02:10:12,594 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 02:10:28,202 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:10:28,334 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 02:10:28,334 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 02:10:28,335 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 02:10:33,825 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 02:10:40,240 - [fire_detector] - INFO - Count: 1	 ACK: b'f19672e7d23a4ae0a4a65ab8128101b9'
+2023-03-26 02:10:41,258 - [fire_detector] - INFO - Count: 2	 ACK: b'413808b8b07146b08b503693c9beb56a'
+2023-03-26 02:10:43,002 - [fire_detector] - INFO - Count: 3	 ACK: b'78f1026674d34e6dba59af90711bde61'
+2023-03-26 02:10:45,047 - [fire_detector] - INFO - Count: 4	 ACK: b'50c783d14ff94920bc1652b071ec2719'
+2023-03-26 02:10:47,762 - [fire_detector] - INFO - Count: 5	 ACK: b'd0631c76e1af4790b8c82145c4ab9790'
+2023-03-26 02:10:49,662 - [fire_detector] - INFO - Count: 6	 ACK: b'37ab3c317455421c93c9d133e79bdeac'
+2023-03-26 02:10:53,504 - [fire_detector] - INFO - Count: 7	 ACK: b'628425a1375e47e0b07131f0edf63499'
+2023-03-26 02:10:54,259 - [fire_detector] - INFO - Count: 8	 ACK: b'196df64c7ec14328bb5c0ca96fbd8fd4'
+2023-03-26 02:11:34,626 - [fire_detector] - INFO - Count: 9	 ACK: b'f25d71bf64d343099b8ec3882fe5ec0b'
+2023-03-26 02:11:37,339 - [fire_detector] - INFO - Count: 10	 ACK: b'9ad6d1295e234921b7728ddc5e98af7b'
+2023-03-26 02:11:42,251 - [fire_detector] - INFO - Count: 11	 ACK: b'a6cf93bce31e4786876dcf2f4447815b'
+2023-03-26 02:11:42,888 - [fire_detector] - INFO - Count: 12	 ACK: b'6d17f40781324da5a47272ba7ef5fb0f'
+2023-03-26 02:11:46,055 - [fire_detector] - INFO - Count: 13	 ACK: b'e881046b54804880a7c2ab104c88ee7a'
+2023-03-26 02:11:46,646 - [fire_detector] - INFO - Count: 14	 ACK: b'842f94ff97ec4691837d9e9402e8a8df'
+2023-03-26 02:11:47,883 - [fire_detector] - INFO - Count: 15	 ACK: b'f3e105a7348d466280f271a0ef51cada'
+2023-03-26 02:11:51,045 - [fire_detector] - INFO - Count: 16	 ACK: b'72235fda2e394e2e9f053cb47c2f0917'
+2023-03-26 02:11:54,586 - [fire_detector] - INFO - Count: 17	 ACK: b'1b6c46692a754a35bde866b6d073a4c7'
+2023-03-26 02:11:56,611 - [fire_detector] - INFO - Count: 18	 ACK: b'0ca4862763364255919db080047bf143'
+2023-03-26 02:11:57,859 - [fire_detector] - INFO - Count: 19	 ACK: b'c81c0f35e6da4be1abce86a3d840ea49'
+2023-03-26 02:11:58,864 - [fire_detector] - INFO - Count: 20	 ACK: b'f5640ab456b74fcf88a1bd88a17b0d51'
+2023-03-26 02:11:59,627 - [fire_detector] - INFO - Count: 21	 ACK: b'44a0a6c973794f03a0e493c190b1fc5a'
+2023-03-26 02:12:01,661 - [fire_detector] - INFO - Count: 22	 ACK: b'4326f7ed9e9a43fbbb95201e9c59c0d9'
+2023-03-26 03:31:52,170 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 03:31:52,170 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 03:31:52,171 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 03:31:52,172 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 03:46:09,421 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:00:57,173 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:00:57,821 - [fire_detector] - INFO - Count: 1	 ACK: b'9b7cfd54c45b485d812b3fc8cb5065fe'
+2023-03-26 04:00:58,132 - [fire_detector] - INFO - Count: 2	 ACK: b'29e14835a5e147438dc06ba5ca610b0f'
+2023-03-26 04:00:59,326 - [fire_detector] - INFO - Count: 3	 ACK: b'44a533b961c4477ab95079d40697ae5c'
+2023-03-26 04:01:01,174 - [fire_detector] - INFO - Count: 4	 ACK: b'39974b350d3f4de987c303835e33adcc'
+2023-03-26 04:01:01,293 - [fire_detector] - INFO - Count: 5	 ACK: b'7760b5f1004a44d18da5b75d97e56129'
+2023-03-26 04:01:02,103 - [fire_detector] - INFO - Count: 6	 ACK: b'5d9a398b819741c29fb7107fedfef2f8'
+2023-03-26 04:01:03,343 - [fire_detector] - INFO - Count: 7	 ACK: b'079f72f3dd384b58babf2cddf80c3a75'
+2023-03-26 04:01:05,194 - [fire_detector] - INFO - Count: 8	 ACK: b'88d8c44a31264bde80fe9cf071b768be'
+2023-03-26 04:01:05,526 - [fire_detector] - INFO - Count: 9	 ACK: b'950c983a8547465eb6c633700bac2a0b'
+2023-03-26 04:01:06,811 - [fire_detector] - INFO - Count: 10	 ACK: b'5153d7fa8e9f4324911c5fceed164a88'
+2023-03-26 04:01:07,342 - [fire_detector] - INFO - Count: 11	 ACK: b'f2aa563272e947739435ef41874c1c58'
+2023-03-26 04:01:08,562 - [fire_detector] - INFO - Count: 12	 ACK: b'0b0e9f433fe74e27adeb40d13ec59177'
+2023-03-26 04:01:10,062 - [fire_detector] - INFO - Count: 13	 ACK: b'ee676858e824439aa8fb1a96e78b612a'
+2023-03-26 04:01:10,596 - [fire_detector] - INFO - Count: 14	 ACK: b'894bd3c7bcf443218b091063ea37ed0e'
+2023-03-26 04:01:11,350 - [fire_detector] - INFO - Count: 15	 ACK: b'34a3edb318f0481397f3b3cd75862172'
+2023-03-26 04:01:12,093 - [fire_detector] - INFO - Count: 16	 ACK: b'aa279b861c424797b8fe1f7c363348bf'
+2023-03-26 04:01:13,315 - [fire_detector] - INFO - Count: 17	 ACK: b'3d5053731c6a4884b21ae40771a2d660'
+2023-03-26 04:01:14,322 - [fire_detector] - INFO - Count: 18	 ACK: b'a511aaa753e745eabfdeadd09e01dae1'
+2023-03-26 04:01:15,961 - [fire_detector] - INFO - Count: 19	 ACK: b'5fef761ebd8d4cfeae4b59a88571a854'
+2023-03-26 04:01:16,822 - [fire_detector] - INFO - Count: 20	 ACK: b'958af8b190384fd9bfc7c942d9dcad4a'
+2023-03-26 04:01:17,330 - [fire_detector] - INFO - Count: 21	 ACK: b'f0c307f6fdd44ec48cdb988253f282b3'
+2023-03-26 04:01:20,066 - [fire_detector] - INFO - Count: 22	 ACK: b'a8120a98a1684f238372bf6cfb6e5c9d'
+2023-03-26 04:01:21,110 - [fire_detector] - INFO - Count: 23	 ACK: b'e9e3968d437740a18ed3cec06c8ce6e2'
+2023-03-26 04:01:21,783 - [fire_detector] - INFO - Count: 24	 ACK: b'f75edacf6b344522aa584829559e885e'
+2023-03-26 04:01:22,362 - [fire_detector] - INFO - Count: 25	 ACK: b'f3406630255e46c093a278c10d735919'
+2023-03-26 04:01:23,990 - [fire_detector] - INFO - Count: 26	 ACK: b'f160bef16a7d4500a193f15eac4eb45e'
+2023-03-26 04:01:24,373 - [fire_detector] - INFO - Count: 27	 ACK: b'60b2b0e1e8d3480c84f417172e9810e9'
+2023-03-26 04:01:27,730 - [fire_detector] - INFO - Count: 28	 ACK: b'0452b27e62d74fd1a97f6bcb634ad284'
+2023-03-26 04:01:28,784 - [fire_detector] - INFO - Count: 29	 ACK: b'a7b0ace6bc4f4e0890e4bac6bc89e253'
+2023-03-26 04:01:31,597 - [fire_detector] - INFO - Count: 30	 ACK: b'64dac1e50c4a4168aba1dd405b67b63a'
+2023-03-26 04:01:32,627 - [fire_detector] - INFO - Count: 31	 ACK: b'f869df1cae064d4782f09ba0df924763'
+2023-03-26 04:01:33,385 - [fire_detector] - INFO - Count: 32	 ACK: b'b72df4e265824862be2ede0dd3c96f9d'
+2023-03-26 04:01:34,345 - [fire_detector] - INFO - Count: 33	 ACK: b'10b68d7d962045939488c92f38e85814'
+2023-03-26 04:01:35,353 - [fire_detector] - INFO - Count: 34	 ACK: b'6ae5d4ac50b3460382bf496e08f7aa33'
+2023-03-26 04:01:37,209 - [fire_detector] - INFO - Count: 35	 ACK: b'142428e20a2f47ddaae0e5035793d1f5'
+2023-03-26 04:01:37,565 - [fire_detector] - INFO - Count: 36	 ACK: b'5c2e32e77a964f0292ba78e6beb6ec10'
+2023-03-26 04:01:38,120 - [fire_detector] - INFO - Count: 37	 ACK: b'165e0bd14b8442c69ea5050f88263f30'
+2023-03-26 04:01:39,752 - [fire_detector] - INFO - Count: 38	 ACK: b'1ec7e1ba4aa34977b3759580fe08767c'
+2023-03-26 04:01:40,341 - [fire_detector] - INFO - Count: 39	 ACK: b'9f67ab2d68cc43b198cfa3ab27e3a1e8'
+2023-03-26 04:01:41,465 - [fire_detector] - INFO - Count: 40	 ACK: b'3c404ebdaef2413a9b7ae29101a8ac9b'
+2023-03-26 04:01:42,132 - [fire_detector] - INFO - Count: 41	 ACK: b'e538c4f284fb4dd4986970a28a25b448'
+2023-03-26 04:01:43,985 - [fire_detector] - INFO - Count: 42	 ACK: b'd1e2378e77a548b6b1212ccbd0b5afba'
+2023-03-26 04:01:45,905 - [fire_detector] - INFO - Count: 43	 ACK: b'953f4a73d00f437d8c99fd26619ac2e1'
+2023-03-26 04:01:46,261 - [fire_detector] - INFO - Count: 44	 ACK: b'b3da8b71a7ff48aea7d34dbd1eff7a6d'
+2023-03-26 04:01:46,837 - [fire_detector] - INFO - Count: 45	 ACK: b'2d85bdde02fc426c860a96f8ec541efe'
+2023-03-26 04:01:47,340 - [fire_detector] - INFO - Count: 46	 ACK: b'6cd31100b7194b41951484c1e3e3493c'
+2023-03-26 04:01:48,333 - [fire_detector] - INFO - Count: 47	 ACK: b'0a87cd9d9ff04ecb86d4f750000ec526'
+2023-03-26 04:01:49,100 - [fire_detector] - INFO - Count: 48	 ACK: b'cd93b96aeb084077aad766ecc0e8bd7f'
+2023-03-26 04:01:50,588 - [fire_detector] - INFO - Count: 49	 ACK: b'5692d943df5c49a0929a0b6ed0e7813e'
+2023-03-26 04:01:52,444 - [fire_detector] - INFO - Count: 50	 ACK: b'c9a3d40a0fb04e2b944a76d9d3df6455'
+2023-03-26 04:01:53,320 - [fire_detector] - INFO - Count: 51	 ACK: b'8b6ba864883147ab8b9acc257bc8854d'
+2023-03-26 04:01:54,340 - [fire_detector] - INFO - Count: 52	 ACK: b'862e26098d154b2b962b7869a3b32bd2'
+2023-03-26 04:01:56,433 - [fire_detector] - INFO - Count: 53	 ACK: b'87adf250e66f45cfb3a42b6907c6af82'
+2023-03-26 04:01:56,784 - [fire_detector] - INFO - Count: 54	 ACK: b'0b4801ae85da4733bc532d7547e5cdeb'
+2023-03-26 04:01:57,670 - [fire_detector] - INFO - Count: 55	 ACK: b'1ee867033cb74b268cc153e13edda0db'
+2023-03-26 04:01:58,849 - [fire_detector] - INFO - Count: 56	 ACK: b'e5628dbb49f64972a658fb7e4791f632'
+2023-03-26 04:01:59,336 - [fire_detector] - INFO - Count: 57	 ACK: b'd4d7aee15fd24389bf24bfb587c6ed97'
+2023-03-26 04:02:01,190 - [fire_detector] - INFO - Count: 58	 ACK: b'01c9526a6863470397554c43828cc35f'
+2023-03-26 04:02:01,559 - [fire_detector] - INFO - Count: 59	 ACK: b'956f0eb825fd4a75a3ea74116b944f24'
+2023-03-26 04:02:02,328 - [fire_detector] - INFO - Count: 60	 ACK: b'7f79c283e76a418a964490cd173cbbaf'
+2023-03-26 04:02:03,319 - [fire_detector] - INFO - Count: 61	 ACK: b'8ac89f4edc404182bc9d92f1a7817bc3'
+2023-03-26 04:02:05,179 - [fire_detector] - INFO - Count: 62	 ACK: b'a18a235816f54e01914d87c6b5f5a324'
+2023-03-26 04:02:05,524 - [fire_detector] - INFO - Count: 63	 ACK: b'8c13d6624501467d83cf0260c350266c'
+2023-03-26 04:02:06,564 - [fire_detector] - INFO - Count: 64	 ACK: b'58423e6b247d4a5c841de398a17e77d1'
+2023-03-26 04:02:08,192 - [fire_detector] - INFO - Count: 65	 ACK: b'e98eb6b75bc34bfcb848e159d476779e'
+2023-03-26 04:02:09,087 - [fire_detector] - INFO - Count: 66	 ACK: b'ff92e410c43546ef974e630f5fb1f1ac'
+2023-03-26 04:02:11,174 - [fire_detector] - INFO - Count: 67	 ACK: b'a2eed49b31fd46c78016d03d19d56aeb'
+2023-03-26 04:02:11,601 - [fire_detector] - INFO - Count: 68	 ACK: b'67ebe3a4197d4fc99d039f7c2dce70a2'
+2023-03-26 04:02:12,316 - [fire_detector] - INFO - Count: 69	 ACK: b'3c142dbf60e54b2aa3ba91e6cb8e8dd0'
+2023-03-26 04:02:13,571 - [fire_detector] - INFO - Count: 70	 ACK: b'7ed86aa6f7cb42d280d596dc222ef689'
+2023-03-26 04:02:14,315 - [fire_detector] - INFO - Count: 71	 ACK: b'3de75943fb084054ad19be8696bded1b'
+2023-03-26 04:02:16,168 - [fire_detector] - INFO - Count: 72	 ACK: b'a1a1778a64b3424cbf5794e126bb15ab'
+2023-03-26 04:02:16,795 - [fire_detector] - INFO - Count: 73	 ACK: b'70a669a0f82d4fdfad145b24e963e941'
+2023-03-26 04:02:17,079 - [fire_detector] - INFO - Count: 74	 ACK: b'2bcc047685ff49f2b9b5f3bf86512d6f'
+2023-03-26 04:02:18,937 - [fire_detector] - INFO - Count: 75	 ACK: b'fd6818c7e793481fa91750117c99a072'
+2023-03-26 04:02:19,095 - [fire_detector] - INFO - Count: 76	 ACK: b'3832ae57523c436b80f803b3a0b9074d'
+2023-03-26 04:02:20,327 - [fire_detector] - INFO - Count: 77	 ACK: b'2878784b37434fd79e3d0d48a424608a'
+2023-03-26 04:02:21,307 - [fire_detector] - INFO - Count: 78	 ACK: b'2487ac343c7e40db849eb4fd0ec5f84b'
+2023-03-26 04:02:23,163 - [fire_detector] - INFO - Count: 79	 ACK: b'77519eca31834be5ac2f63a3a8e5f8ed'
+2023-03-26 04:02:23,506 - [fire_detector] - INFO - Count: 80	 ACK: b'a5bdeeeb9e944d0aab5cf123717d6823'
+2023-03-26 04:02:25,063 - [fire_detector] - INFO - Count: 81	 ACK: b'd6ec38de97d2492db3fb52e834580a51'
+2023-03-26 04:02:26,578 - [fire_detector] - INFO - Count: 82	 ACK: b'809e71811d104ba1845ee4d102d86d1b'
+2023-03-26 04:02:26,696 - [fire_detector] - INFO - Count: 83	 ACK: b'5e1eadfdcc7e491aa9e74343ed17cd0b'
+2023-03-26 04:02:27,341 - [fire_detector] - INFO - Count: 84	 ACK: b'8a39307721f740e5bdbf22db73d5756d'
+2023-03-26 04:02:28,967 - [fire_detector] - INFO - Count: 85	 ACK: b'5a6d785af68244128b2643948cb19c78'
+2023-03-26 04:02:29,347 - [fire_detector] - INFO - Count: 86	 ACK: b'7f690f12659d4f029dde92e882cb2bfb'
+2023-03-26 04:02:30,342 - [fire_detector] - INFO - Count: 87	 ACK: b'31075995da804dd8900da2d0a8c2ad33'
+2023-03-26 04:02:31,966 - [fire_detector] - INFO - Count: 88	 ACK: b'd0494d9e9c90432b81e6066f9c5cc867'
+2023-03-26 04:02:33,578 - [fire_detector] - INFO - Count: 89	 ACK: b'abbc4c8875f84b0ea0053ff13510adec'
+2023-03-26 04:02:33,939 - [fire_detector] - INFO - Count: 90	 ACK: b'e77333c6e2b04602bf2c24ed8970eced'
+2023-03-26 04:02:34,623 - [fire_detector] - INFO - Count: 91	 ACK: b'c8404ad45e9d4161b1a749de6ee58e22'
+2023-03-26 04:02:35,338 - [fire_detector] - INFO - Count: 92	 ACK: b'98a49ba05d0f4c3aa82dfce133f029a3'
+2023-03-26 04:02:37,198 - [fire_detector] - INFO - Count: 93	 ACK: b'1fef4113d37a49babbadb0e04a74a718'
+2023-03-26 04:02:37,534 - [fire_detector] - INFO - Count: 94	 ACK: b'd8ed63dc84fd4cdd812d54952d0a9acc'
+2023-03-26 04:02:38,346 - [fire_detector] - INFO - Count: 95	 ACK: b'7cfaf31081394499b63f1443dee3f859'
+2023-03-26 04:02:39,393 - [fire_detector] - INFO - Count: 96	 ACK: b'7bff43697dd3469795f5a0cd1b3ed297'
+2023-03-26 04:02:41,246 - [fire_detector] - INFO - Count: 97	 ACK: b'2baca47af2184fa5b8ed57c0de353a39'
+2023-03-26 04:02:41,817 - [fire_detector] - INFO - Count: 98	 ACK: b'0f6354b60542468f81933771ea654be6'
+2023-03-26 04:02:43,673 - [fire_detector] - INFO - Count: 99	 ACK: b'2cbfd1554f7c494ebf873b3063086b9e'
+2023-03-26 04:02:44,945 - [fire_detector] - INFO - Count: 100	 ACK: b'aacd1b1d801a4fd4bb918cf2f347be3c'
+2023-03-26 04:02:46,614 - [fire_detector] - INFO - Count: 101	 ACK: b'8df2a2ecd0644afbb7ec1a67aa2ac610'
+2023-03-26 04:02:47,672 - [fire_detector] - INFO - Count: 102	 ACK: b'0be0c5f28bec4829a20380ea5daf1e0b'
+2023-03-26 04:02:48,148 - [fire_detector] - INFO - Count: 103	 ACK: b'22552f2197d64eb58f35d0ed52416a1f'
+2023-03-26 04:02:49,357 - [fire_detector] - INFO - Count: 104	 ACK: b'f5147f6307024739918b957a50a4bdd1'
+2023-03-26 04:02:50,333 - [fire_detector] - INFO - Count: 105	 ACK: b'd9405a5a2fbb42fd9452d0aba24c72dd'
+2023-03-26 04:02:51,976 - [fire_detector] - INFO - Count: 106	 ACK: b'773b1fce0c664fd284eac99c24dfbdd8'
+2023-03-26 04:02:52,140 - [fire_detector] - INFO - Count: 107	 ACK: b'1e9333687cb8435f9370a4d8d76bab42'
+2023-03-26 04:02:53,997 - [fire_detector] - INFO - Count: 108	 ACK: b'4fef20199857490686dd512b4ef256ac'
+2023-03-26 04:03:00,392 - [fire_detector] - INFO - Count: 109	 ACK: b'71254901bd5e4c29bb20994eef6ff024'
+2023-03-26 04:03:02,264 - [fire_detector] - INFO - Count: 110	 ACK: b'308027fc51ea471881c49203d85b52d5'
+2023-03-26 04:04:14,780 - [fire_detector] - INFO - Count: 111	 ACK: b'540e5d8e3cd04525b24e2ef7db328293'
+2023-03-26 04:04:15,484 - [fire_detector] - INFO - Count: 112	 ACK: b'2917ddca3a3f4e2f8b227a026038f2c6'
+2023-03-26 04:04:16,683 - [fire_detector] - INFO - Count: 113	 ACK: b'c1eb7eb996714f8aa066c112bf8a8f8f'
+2023-03-26 04:04:17,659 - [fire_detector] - INFO - Count: 114	 ACK: b'4b71f3dc228f4c8ca419349b9a9a3ab4'
+2023-03-26 04:04:19,171 - [fire_detector] - INFO - Count: 115	 ACK: b'6e6b4b7691684955b5770ffc8c652d8c'
+2023-03-26 04:04:19,384 - [fire_detector] - INFO - Count: 116	 ACK: b'897717875c8343dab0059681978b926a'
+2023-03-26 04:04:21,556 - [fire_detector] - INFO - Count: 117	 ACK: b'5d17dcdc60f74a158b4dfad6a2e2b540'
+2023-03-26 04:04:21,979 - [fire_detector] - INFO - Count: 118	 ACK: b'94b38d5056cc42ffad74567458f754db'
+2023-03-26 04:04:22,651 - [fire_detector] - INFO - Count: 119	 ACK: b'68a811e5cf464da3b8807b70855f2c51'
+2023-03-26 04:04:23,181 - [fire_detector] - INFO - Count: 120	 ACK: b'f9aea09c2c3241fba4d7675785f50158'
+2023-03-26 04:04:25,107 - [fire_detector] - INFO - Count: 121	 ACK: b'e8af9fc3299a42e5958d0ebe366d8e77'
+2023-03-26 04:04:26,407 - [fire_detector] - INFO - Count: 122	 ACK: b'07606ea277ab4df7a43c7dce0157995b'
+2023-03-26 04:04:28,575 - [fire_detector] - INFO - Count: 123	 ACK: b'211f6dd96f104d92929518a092bbd107'
+2023-03-26 04:04:29,239 - [fire_detector] - INFO - Count: 124	 ACK: b'44752296966544e9bc58cf86dd1d9552'
+2023-03-26 04:04:29,657 - [fire_detector] - INFO - Count: 125	 ACK: b'19af1f4ea5054596a6fdd505e4a42bd1'
+2023-03-26 04:04:30,398 - [fire_detector] - INFO - Count: 126	 ACK: b'1bd3f12c63d84b3c9e6ebdf73c59f794'
+2023-03-26 04:04:31,182 - [fire_detector] - INFO - Count: 127	 ACK: b'4831982347c04c57b08440e6deb2eb81'
+2023-03-26 04:04:32,638 - [fire_detector] - INFO - Count: 128	 ACK: b'742cfc5b79d14e70944586a7a3d61cd3'
+2023-03-26 04:04:33,688 - [fire_detector] - INFO - Count: 129	 ACK: b'4f745adc54d847309f299d41e04605c8'
+2023-03-26 04:04:34,415 - [fire_detector] - INFO - Count: 130	 ACK: b'af6bb90f66f0488b9848da9b0b9047bb'
+2023-03-26 04:04:36,143 - [fire_detector] - INFO - Count: 131	 ACK: b'c7585216d56d429bae5dc9598818251b'
+2023-03-26 04:04:36,966 - [fire_detector] - INFO - Count: 132	 ACK: b'15a941d92c16421cabc6ae4d073beebe'
+2023-03-26 04:04:37,178 - [fire_detector] - INFO - Count: 133	 ACK: b'43ac872e5b584b588977167c1362a65c'
+2023-03-26 04:04:38,402 - [fire_detector] - INFO - Count: 134	 ACK: b'a84a6cd8c0004ffbbf059edbf0ec4b7f'
+2023-03-26 04:04:40,099 - [fire_detector] - INFO - Count: 135	 ACK: b'6e7f79ea49134e48a473b12318ea8a83'
+2023-03-26 04:04:41,453 - [fire_detector] - INFO - Count: 136	 ACK: b'470f4f3b09bf4cf188e25de4b2063259'
+2023-03-26 04:04:41,889 - [fire_detector] - INFO - Count: 137	 ACK: b'7559acb043434fac8fcc158cc83e103a'
+2023-03-26 04:04:42,438 - [fire_detector] - INFO - Count: 138	 ACK: b'08883bfa7d8340438f9e2623ac479c46'
+2023-03-26 04:04:43,401 - [fire_detector] - INFO - Count: 139	 ACK: b'6fbe390b57304380894e7e2292685d59'
+2023-03-26 04:04:45,111 - [fire_detector] - INFO - Count: 140	 ACK: b'1c8cff68e0c04cc6b157db108589db22'
+2023-03-26 04:04:45,557 - [fire_detector] - INFO - Count: 141	 ACK: b'b4c5bc3a4d8e468d8308360c02e7e8bc'
+2023-03-26 04:04:46,429 - [fire_detector] - INFO - Count: 142	 ACK: b'1bd328f945db4d008870fa61c79ec133'
+2023-03-26 04:04:47,163 - [fire_detector] - INFO - Count: 143	 ACK: b'2d1fb925f16f458d8a941d30b7564303'
+2023-03-26 04:04:49,101 - [fire_detector] - INFO - Count: 144	 ACK: b'6dc9dbeaf5964017b33eca1a8df7acac'
+2023-03-26 04:04:49,775 - [fire_detector] - INFO - Count: 145	 ACK: b'50812bdf88eb472e8632c231a6ac166b'
+2023-03-26 04:04:50,161 - [fire_detector] - INFO - Count: 146	 ACK: b'26e39820f3374f7e8f6f90770f6b8198'
+2023-03-26 04:04:52,332 - [fire_detector] - INFO - Count: 147	 ACK: b'23e7652b69674eb89797cf011f5ab71b'
+2023-03-26 04:04:52,528 - [fire_detector] - INFO - Count: 148	 ACK: b'5ace0651582d4b659cf8db6fdc3f79cc'
+2023-03-26 04:04:53,892 - [fire_detector] - INFO - Count: 149	 ACK: b'5ba028100f5340c5a28c461dc2180dc9'
+2023-03-26 04:04:54,441 - [fire_detector] - INFO - Count: 150	 ACK: b'252b7236f68e46d08b1a5773c65d6cb8'
+2023-03-26 04:04:55,416 - [fire_detector] - INFO - Count: 151	 ACK: b'2d9ed5ba95894757b18220f93d654ce8'
+2023-03-26 04:04:57,358 - [fire_detector] - INFO - Count: 152	 ACK: b'e497225de3284262bf7b0829190bf9df'
+2023-03-26 04:04:57,690 - [fire_detector] - INFO - Count: 153	 ACK: b'034e95288dbd42fbbf7ff472079a2541'
+2023-03-26 04:04:58,652 - [fire_detector] - INFO - Count: 154	 ACK: b'bfa5d125cc704ca99459f511df32fea4'
+2023-03-26 04:04:59,669 - [fire_detector] - INFO - Count: 155	 ACK: b'2eec47c1d3c344abb5cc0c165c8f9dde'
+2023-03-26 04:05:00,405 - [fire_detector] - INFO - Count: 156	 ACK: b'2db7189e28db4cdf86640c1e34f97e90'
+2023-03-26 04:05:02,357 - [fire_detector] - INFO - Count: 157	 ACK: b'dca9eeb47bf94dd582c825c3266489a8'
+2023-03-26 04:05:03,269 - [fire_detector] - INFO - Count: 158	 ACK: b'549a26cf6dfa4a4fa33d2eab4ab323c0'
+2023-03-26 04:05:03,732 - [fire_detector] - INFO - Count: 159	 ACK: b'f3410345b5e24ebd8ee92eda87cf7a49'
+2023-03-26 04:05:04,389 - [fire_detector] - INFO - Count: 160	 ACK: b'b2e634a0ba774c139320322531a93d9d'
+2023-03-26 04:05:05,389 - [fire_detector] - INFO - Count: 161	 ACK: b'cc63023ec2cf4608bfcd3e4b3a167a35'
+2023-03-26 04:05:07,325 - [fire_detector] - INFO - Count: 162	 ACK: b'5b6ca7ab91704dd9b3f8d42e8859820f'
+2023-03-26 04:05:07,756 - [fire_detector] - INFO - Count: 163	 ACK: b'd9b2af26c22d4238bfd48e5f8d3ec53c'
+2023-03-26 04:05:08,198 - [fire_detector] - INFO - Count: 164	 ACK: b'9a6cdabffc4846e782b90fa12621a694'
+2023-03-26 04:05:10,117 - [fire_detector] - INFO - Count: 165	 ACK: b'c926772d1024431dabcfb7b07aebf78e'
+2023-03-26 04:05:10,541 - [fire_detector] - INFO - Count: 166	 ACK: b'1d63cbb48221484499d595c3d0de4ee1'
+2023-03-26 04:05:11,417 - [fire_detector] - INFO - Count: 167	 ACK: b'2cccf4464db0462b979db69176c7141e'
+2023-03-26 04:05:12,653 - [fire_detector] - INFO - Count: 168	 ACK: b'53084cf336cd470abc0974206c2e41cb'
+2023-03-26 04:05:13,204 - [fire_detector] - INFO - Count: 169	 ACK: b'faa1100e06294219bfda3b492ca10957'
+2023-03-26 04:05:14,429 - [fire_detector] - INFO - Count: 170	 ACK: b'3eb9413c0cca4863941703921e3fc165'
+2023-03-26 04:05:17,619 - [fire_detector] - INFO - Count: 171	 ACK: b'a9cb2bfd24f54f46b53c2c175b777181'
+2023-03-26 04:05:18,429 - [fire_detector] - INFO - Count: 172	 ACK: b'690c0a12a3934383ba17a826ec37cb57'
+2023-03-26 04:05:20,601 - [fire_detector] - INFO - Count: 173	 ACK: b'be3f29b11fec4b0db3c07136e861248b'
+2023-03-26 04:05:21,538 - [fire_detector] - INFO - Count: 174	 ACK: b'9206c3441dd440a1ac436c1b150a429c'
+2023-03-26 04:05:22,670 - [fire_detector] - INFO - Count: 175	 ACK: b'33503efd52964f3a8d87ef9735df8e42'
+2023-03-26 04:05:23,410 - [fire_detector] - INFO - Count: 176	 ACK: b'6873e6fac2574b4c8b4b24b97b44f04e'
+2023-03-26 04:05:25,591 - [fire_detector] - INFO - Count: 177	 ACK: b'612d5ac785da4196a7db49988dad82ce'
+2023-03-26 04:05:26,012 - [fire_detector] - INFO - Count: 178	 ACK: b'd0fa7a6f034243978d1e1256110b0e84'
+2023-03-26 04:05:27,195 - [fire_detector] - INFO - Count: 179	 ACK: b'cf738a9788274a328fc2c4c6fc7fee4d'
+2023-03-26 04:05:27,596 - [fire_detector] - INFO - Count: 180	 ACK: b'80a7a2589a904a38af7e9580e8ebcb27'
+2023-03-26 04:05:28,751 - [fire_detector] - INFO - Count: 181	 ACK: b'a05b7e821d7b48a4be1169811ce1c1bf'
+2023-03-26 04:05:30,239 - [fire_detector] - INFO - Count: 182	 ACK: b'512f05acc88f4760b032d2c68c1709fe'
+2023-03-26 04:05:43,438 - [fire_detector] - INFO - Count: 183	 ACK: b'09ccf701125a4f809517959504c3b367'
+2023-03-26 04:05:44,636 - [fire_detector] - INFO - Count: 184	 ACK: b'3cf50e07218f4f14bca9c11a48f2a272'
+2023-03-26 04:05:45,400 - [fire_detector] - INFO - Count: 185	 ACK: b'2da664a168064fe2b64a08cb0006c5df'
+2023-03-26 04:05:46,380 - [fire_detector] - INFO - Count: 186	 ACK: b'9ff5c167e4b14439a91d411fc15634b2'
+2023-03-26 04:05:48,636 - [fire_detector] - INFO - Count: 187	 ACK: b'41240cc73b35457b9d8fc180f3766573'
+2023-03-26 04:05:49,897 - [fire_detector] - INFO - Count: 188	 ACK: b'd2740aace6004a1487c9dc2aeb69a6a5'
+2023-03-26 04:05:50,649 - [fire_detector] - INFO - Count: 189	 ACK: b'9f1fdb78f0114a158697c78443b5e515'
+2023-03-26 04:06:53,053 - [fire_detector] - INFO - Count: 190	 ACK: b'8be86558123849908a17aa7b42cc395b'
+2023-03-26 04:06:53,875 - [fire_detector] - INFO - Count: 191	 ACK: b'5bc1044d85cf4e1887cc86b2725925e1'
+2023-03-26 04:06:54,430 - [fire_detector] - INFO - Count: 192	 ACK: b'ce24f508577d45bca17831cec641d8a0'
+2023-03-26 04:06:56,599 - [fire_detector] - INFO - Count: 193	 ACK: b'd46b1a68f51d4d8c838190b4f352b676'
+2023-03-26 04:06:56,995 - [fire_detector] - INFO - Count: 194	 ACK: b'4d80220db19642ae86e7540d54b2ea3e'
+2023-03-26 04:06:57,460 - [fire_detector] - INFO - Count: 195	 ACK: b'06ac786d0b55480784b135ff9001e90b'
+2023-03-26 04:09:31,634 - [fire_detector] - INFO - Count: 196	 ACK: b'30a17d60ee1244fe80a2c616aa69c95e'
+2023-03-26 04:09:32,402 - [fire_detector] - INFO - Count: 197	 ACK: b'b50c28c190e449198a19cc468ada92c3'
+2023-03-26 04:09:33,366 - [fire_detector] - INFO - Count: 198	 ACK: b'40a80d830e1f47f5b4a73a816de60036'
+2023-03-26 04:09:34,120 - [fire_detector] - INFO - Count: 199	 ACK: b'4b528d305dda41449ec241e9e0280db5'
+2023-03-26 04:09:36,002 - [fire_detector] - INFO - Count: 200	 ACK: b'a55a4b08410047bdabc2d08a2123a278'
+2023-03-26 04:09:37,618 - [fire_detector] - INFO - Count: 201	 ACK: b'37e0db9e1dc045e190e2f0cdc460e39b'
+2023-03-26 04:09:38,584 - [fire_detector] - INFO - Count: 202	 ACK: b'6d8118cd396a4d30966c046406ad5d8f'
+2023-03-26 04:09:39,346 - [fire_detector] - INFO - Count: 203	 ACK: b'd757225aff684cfa91a1288837403164'
+2023-03-26 04:09:40,991 - [fire_detector] - INFO - Count: 204	 ACK: b'b385a38cf0e24a2397759d19adbc566e'
+2023-03-26 04:09:41,626 - [fire_detector] - INFO - Count: 205	 ACK: b'6158fc10b98f4e89a4684dfac4a44124'
+2023-03-26 04:09:42,339 - [fire_detector] - INFO - Count: 206	 ACK: b'b8044105d31f4a3fa557c67ee86a6dfb'
+2023-03-26 04:09:43,980 - [fire_detector] - INFO - Count: 207	 ACK: b'e5ae0ca3a5814df6bb450ffe210fbb0d'
+2023-03-26 04:09:44,373 - [fire_detector] - INFO - Count: 208	 ACK: b'774ecc5e09c441c980f799104b71c298'
+2023-03-26 04:09:45,359 - [fire_detector] - INFO - Count: 209	 ACK: b'f728413b95e94440b73b4391f8986c27'
+2023-03-26 04:09:46,325 - [fire_detector] - INFO - Count: 210	 ACK: b'c4e60d92307e48da9e1b69e0cf437865'
+2023-03-26 04:09:47,097 - [fire_detector] - INFO - Count: 211	 ACK: b'85d693145d3547048e2baf53ed0d1af5'
+2023-03-26 04:09:48,970 - [fire_detector] - INFO - Count: 212	 ACK: b'd119b7ecbf9a4e4aaff96aa2ef188345'
+2023-03-26 04:09:49,152 - [fire_detector] - INFO - Count: 213	 ACK: b'42f9b2026c6a4cc19bb49ffebc988963'
+2023-03-26 04:09:50,569 - [fire_detector] - INFO - Count: 214	 ACK: b'c6b176a753164af88530c4fd8c40c24d'
+2023-03-26 04:09:51,619 - [fire_detector] - INFO - Count: 215	 ACK: b'7139aded6f94471ea9040f42238776a4'
+2023-03-26 04:10:06,125 - [fire_detector] - INFO - Count: 216	 ACK: b'4caf66542d3241a69b2b4c85e16dd0ec'
+2023-03-26 04:10:07,117 - [fire_detector] - INFO - Count: 217	 ACK: b'8a81db4d8bd440cfaecbf7fa12ec15f7'
+2023-03-26 04:10:08,341 - [fire_detector] - INFO - Count: 218	 ACK: b'fd581d4817324781826fc17c89410ddd'
+2023-03-26 04:10:10,118 - [fire_detector] - INFO - Count: 219	 ACK: b'53c40393062c4b7fae1fcb1ec909656c'
+2023-03-26 04:10:21,909 - [fire_detector] - INFO - Count: 220	 ACK: b'a4dc3ad05c6a44119fdf4dfb62d954fa'
+2023-03-26 04:10:23,849 - [fire_detector] - INFO - Count: 221	 ACK: b'b90ff778986b47a4a9da88952072b7bb'
+2023-03-26 04:10:24,898 - [fire_detector] - INFO - Count: 222	 ACK: b'1cf956f516aa4b9e9dc95d177738d11f'
+2023-03-26 04:10:25,150 - [fire_detector] - INFO - Count: 223	 ACK: b'a820200c3f3843eab667394f20e03491'
+2023-03-26 04:10:27,304 - [fire_detector] - INFO - Count: 224	 ACK: b'96df7b911e75439a8d8c0cc97976224e'
+2023-03-26 04:10:27,464 - [fire_detector] - INFO - Count: 225	 ACK: b'a3847aee77e242679ae162a168f14daf'
+2023-03-26 04:10:28,404 - [fire_detector] - INFO - Count: 226	 ACK: b'1f79a397ad724cb0939f68beea77366c'
+2023-03-26 04:10:29,348 - [fire_detector] - INFO - Count: 227	 ACK: b'f0458289add74088837e965fcfa4d135'
+2023-03-26 04:10:30,999 - [fire_detector] - INFO - Count: 228	 ACK: b'cacdf0cd239543e29db8925b835ee69c'
+2023-03-26 04:10:31,397 - [fire_detector] - INFO - Count: 229	 ACK: b'a38e435df71a47ebb2228684b72b6727'
+2023-03-26 04:10:32,355 - [fire_detector] - INFO - Count: 230	 ACK: b'4c95144c45af4972a86d9a9a05875935'
+2023-03-26 04:10:33,364 - [fire_detector] - INFO - Count: 231	 ACK: b'2ac123d82d6244c58cf8e3bf7edadd22'
+2023-03-26 04:10:34,360 - [fire_detector] - INFO - Count: 232	 ACK: b'0f5aa58c02c24cf58c3c2955389af42b'
+2023-03-26 04:10:36,159 - [fire_detector] - INFO - Count: 233	 ACK: b'a727740fd2be45c7a346bab9ee8d9967'
+2023-03-26 04:10:37,145 - [fire_detector] - INFO - Count: 234	 ACK: b'2dd54dd3edd84d71bff251910621afa0'
+2023-03-26 04:10:38,352 - [fire_detector] - INFO - Count: 235	 ACK: b'e6e43f5bcdca4f42948b8fa0ffce4943'
+2023-03-26 04:10:39,349 - [fire_detector] - INFO - Count: 236	 ACK: b'f9aee0087609452ab1a6806345e66a3b'
+2023-03-26 04:10:42,892 - [fire_detector] - INFO - Count: 237	 ACK: b'980a6bd120964739abe33f7ce3e9c627'
+2023-03-26 04:10:43,085 - [fire_detector] - INFO - Count: 238	 ACK: b'cdfcbe7d4b7f4c7fb5b61fbe7b688d2e'
+2023-03-26 04:12:32,404 - [fire_detector] - INFO - Count: 239	 ACK: b'e0675134a3b240d39344d26770765c34'
+2023-03-26 04:12:46,454 - [fire_detector] - INFO - Count: 240	 ACK: b'de70f0b4179343138fa2ac7fd9bfdd88'
+2023-03-26 04:12:49,619 - [fire_detector] - INFO - Count: 241	 ACK: b'd886eac97071429f9d5875c16803be79'
+2023-03-26 04:12:50,394 - [fire_detector] - INFO - Count: 242	 ACK: b'2d90ba16c3e442ec90485ccd23866bcf'
+2023-03-26 04:12:51,146 - [fire_detector] - INFO - Count: 243	 ACK: b'9ad29138b6c14dcb80f8ed4451507fe5'
+2023-03-26 04:12:53,034 - [fire_detector] - INFO - Count: 244	 ACK: b'0347b8bc99524a8ab5f2fa353f566a48'
+2023-03-26 04:12:53,415 - [fire_detector] - INFO - Count: 245	 ACK: b'29536422edd848869aafe6463724b645'
+2023-03-26 04:12:54,354 - [fire_detector] - INFO - Count: 246	 ACK: b'4c7f9faa76f6401598d690df12759233'
+2023-03-26 04:12:55,574 - [fire_detector] - INFO - Count: 247	 ACK: b'edbc27dcaaba45fb8a1c8493297490c3'
+2023-03-26 04:12:57,090 - [fire_detector] - INFO - Count: 248	 ACK: b'd618d598eb05408b8b0a4f4c36afe59a'
+2023-03-26 04:12:57,455 - [fire_detector] - INFO - Count: 249	 ACK: b'63a641a4f83b457783cd3ba36b7c0a44'
+2023-03-26 04:12:59,110 - [fire_detector] - INFO - Count: 250	 ACK: b'36d945df0c8240df9f1290b2716d36df'
+2023-03-26 04:12:59,271 - [fire_detector] - INFO - Count: 251	 ACK: b'f703d20350db49139c5dcd43000259c6'
+2023-03-26 04:13:00,119 - [fire_detector] - INFO - Count: 252	 ACK: b'580112fa9f7e4b07bc157224fb77d093'
+2023-03-26 04:13:02,124 - [fire_detector] - INFO - Count: 253	 ACK: b'c9bfb429b49742aa9c6d3ea332776bf0'
+2023-03-26 04:13:03,127 - [fire_detector] - INFO - Count: 254	 ACK: b'5f12a80061e44142bbad14171e0df0df'
+2023-03-26 04:13:04,357 - [fire_detector] - INFO - Count: 255	 ACK: b'3597fbeb48704b839a1fc644865b4b4c'
+2023-03-26 04:13:05,361 - [fire_detector] - INFO - Count: 256	 ACK: b'dafb0869dd024a13b7279f0e817fbd0a'
+2023-03-26 04:13:06,349 - [fire_detector] - INFO - Count: 257	 ACK: b'6c78f5ff88b44a379c0e3ee5ca375293'
+2023-03-26 04:13:07,357 - [fire_detector] - INFO - Count: 258	 ACK: b'6f9e353d20554648be0c829b214b689d'
+2023-03-26 04:13:08,353 - [fire_detector] - INFO - Count: 259	 ACK: b'739af5b5f1524be18c7b5131b9742d94'
+2023-03-26 04:13:09,581 - [fire_detector] - INFO - Count: 260	 ACK: b'd37668164a3a422681da15f8a0761e12'
+2023-03-26 04:13:10,352 - [fire_detector] - INFO - Count: 261	 ACK: b'6d25ef1182fa4f81a8c24114b292ea2b'
+2023-03-26 04:13:12,477 - [fire_detector] - INFO - Count: 262	 ACK: b'8270f4088e78461a8e7bfa1ebe86769a'
+2023-03-26 04:13:12,837 - [fire_detector] - INFO - Count: 263	 ACK: b'5dc006fee0e34e4fb57973fa9d605bb7'
+2023-03-26 04:13:13,569 - [fire_detector] - INFO - Count: 264	 ACK: b'873eb7b7854e45f8b761cabf87098ff7'
+2023-03-26 04:13:14,693 - [fire_detector] - INFO - Count: 265	 ACK: b'dbe0dae0b0984aeba05e2052236ecbc0'
+2023-03-26 04:13:27,576 - [fire_detector] - INFO - Count: 266	 ACK: b'91885708684c4a3eb700b207cbfe752c'
+2023-03-26 04:13:42,184 - [fire_detector] - INFO - Count: 267	 ACK: b'74384c14ed144464a1a3767949ce9482'
+2023-03-26 04:13:43,924 - [fire_detector] - INFO - Count: 268	 ACK: b'a477e724544f4a4a9d5db06a40e6fda9'
+2023-03-26 04:13:59,693 - [fire_detector] - INFO - Count: 269	 ACK: b'219f1b2ecee24a0690d7a503e36129ee'
+2023-03-26 04:16:16,479 - [fire_detector] - INFO - Count: 270	 ACK: b'2f10a5d230fb49ab883fb3eefde5a275'
+2023-03-26 04:16:17,684 - [fire_detector] - INFO - Count: 271	 ACK: b'454df0af1b81416dac8d5fb842fa3a28'
+2023-03-26 04:16:19,688 - [fire_detector] - INFO - Count: 272	 ACK: b'55d99888d7d24725b820d1fae0d3be08'
+2023-03-26 04:16:20,635 - [fire_detector] - INFO - Count: 273	 ACK: b'ec2f0102f0f9429d930071e6186795bb'
+2023-03-26 04:16:21,664 - [fire_detector] - INFO - Count: 274	 ACK: b'04df4e07d10943cea38285579924b849'
+2023-03-26 04:16:22,392 - [fire_detector] - INFO - Count: 275	 ACK: b'3014776672ac4f4c8c01627f88238625'
+2023-03-26 04:16:23,376 - [fire_detector] - INFO - Count: 276	 ACK: b'e3909638230d41aea1e80dd4b83e9648'
+2023-03-26 04:16:25,263 - [fire_detector] - INFO - Count: 277	 ACK: b'f9987deef1ee4ee1a5e523c2b0f03b1f'
+2023-03-26 04:16:25,640 - [fire_detector] - INFO - Count: 278	 ACK: b'eb67bab66a414e8db710620d2ac65168'
+2023-03-26 04:16:26,344 - [fire_detector] - INFO - Count: 279	 ACK: b'2aa54320ff4945369ca6d513302ce87d'
+2023-03-26 04:16:52,396 - [fire_detector] - INFO - Count: 280	 ACK: b'99875e5c88d949fa80b3b91329e979e0'
+2023-03-26 04:16:54,056 - [fire_detector] - INFO - Count: 281	 ACK: b'1177d2c7ff834843a8eecf5ceb2551fd'
+2023-03-26 04:16:54,444 - [fire_detector] - INFO - Count: 282	 ACK: b'c2d3fed052654cae81a57f2493ebe79c'
+2023-03-26 04:16:56,336 - [fire_detector] - INFO - Count: 283	 ACK: b'92d81009353640fa89310ca5811b77f9'
+2023-03-26 04:16:57,424 - [fire_detector] - INFO - Count: 284	 ACK: b'f5758616e3e24df9a2e0798acfb93d69'
+2023-03-26 04:16:59,332 - [fire_detector] - INFO - Count: 285	 ACK: b'a4c1ede848544c3d97ace4a508d9f9f6'
+2023-03-26 04:16:59,879 - [fire_detector] - INFO - Count: 286	 ACK: b'0e0105c5d5114963841a6c61c6cf9f74'
+2023-03-26 04:17:09,165 - [fire_detector] - INFO - Count: 287	 ACK: b'75dfec16f6a6421fbb2ebcd50737cecb'
+2023-03-26 04:17:14,443 - [fire_detector] - INFO - Count: 288	 ACK: b'e270f3763f004e3998a4b36ce994b233'
+2023-03-26 04:17:15,391 - [fire_detector] - INFO - Count: 289	 ACK: b'db13e4d2e9a8447f847c685e4271cab3'
+2023-03-26 04:17:17,332 - [fire_detector] - INFO - Count: 290	 ACK: b'f105388648f547bd95f27c7fe62dbe67'
+2023-03-26 04:18:23,541 - [fire_detector] - INFO - Count: 291	 ACK: b'a3aec41b91f049579aedc2b86e1cc636'
+2023-03-26 04:18:24,423 - [fire_detector] - INFO - Count: 292	 ACK: b'38f9b3a281844c5bade5236fc7022e0e'
+2023-03-26 04:18:26,318 - [fire_detector] - INFO - Count: 293	 ACK: b'56e5a4b1eb634554adc342508f7260b2'
+2023-03-26 04:18:26,723 - [fire_detector] - INFO - Count: 294	 ACK: b'3758a26150614e7b89ffe4076267a876'
+2023-03-26 04:18:27,175 - [fire_detector] - INFO - Count: 295	 ACK: b'e5fae2f76f00497aab3200145199705e'
+2023-03-26 04:18:29,771 - [fire_detector] - INFO - Count: 296	 ACK: b'cbee4c125e8e4c5597ad82d4e7bdb655'
+2023-03-26 04:18:30,395 - [fire_detector] - INFO - Count: 297	 ACK: b'afcd4f4eb2fc401abbc229b4e732a0a7'
+2023-03-26 04:18:31,145 - [fire_detector] - INFO - Count: 298	 ACK: b'f1819342ae8f459ea8f88da0d2b31261'
+2023-03-26 04:18:32,824 - [fire_detector] - INFO - Count: 299	 ACK: b'cb459fb43ca44efbaa7e27dad062d6fb'
+2023-03-26 04:18:33,431 - [fire_detector] - INFO - Count: 300	 ACK: b'8b0ed926f9be455e8f43d43948861057'
+2023-03-26 04:20:02,644 - [fire_detector] - INFO - Count: 301	 ACK: b'd153f646e7264199a8be020ade0e5180'
+2023-03-26 04:20:23,469 - [fire_detector] - INFO - Count: 302	 ACK: b'b1ccf86a5ee24714a81e90bf4c7dfcf3'
+2023-03-26 04:21:31,755 - [fire_detector] - INFO - Count: 303	 ACK: b'64b0b7e417a34f078423bda88aa35c6d'
+2023-03-26 04:21:39,699 - [fire_detector] - INFO - Count: 304	 ACK: b'786ec0f2a6ec4a9aa5229a0cc65cc3d7'
+2023-03-26 04:21:41,168 - [fire_detector] - INFO - Count: 305	 ACK: b'6fcfc36c3dd4499aac022e49b36efe45'
+2023-03-26 04:21:41,583 - [fire_detector] - INFO - Count: 306	 ACK: b'ce788b5ef84a437ba6171d0cd0fee81b'
+2023-03-26 04:21:53,227 - [fire_detector] - INFO - Count: 307	 ACK: b'f66763f14a2f47868abf7c93f80f34f7'
+2023-03-26 04:22:48,758 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:22:48,759 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 04:22:48,759 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 04:22:48,760 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 04:33:30,294 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:33:45,908 - [fire_detector] - INFO - Count: 1	 ACK: b'37d68baf4227490985df9b72ce854a47'
+2023-03-26 04:33:47,821 - [fire_detector] - INFO - Count: 2	 ACK: b'49308bb5f7b645c39f2f2439a9252f6a'
+2023-03-26 04:33:52,507 - [fire_detector] - INFO - Count: 3	 ACK: b'8b1d5b591ae948df8610d943ae494924'
+2023-03-26 04:33:53,969 - [fire_detector] - INFO - Count: 4	 ACK: b'6b75a1b73a444ee0ba4d5af919754d00'
+2023-03-26 04:33:55,901 - [fire_detector] - INFO - Count: 5	 ACK: b'110331ca3af843ec8e68232c2d640932'
+2023-03-26 04:33:56,178 - [fire_detector] - INFO - Count: 6	 ACK: b'b423b8d132eb4300a2ffab8137638913'
+2023-03-26 04:34:11,612 - [fire_detector] - INFO - Count: 7	 ACK: b'0f38f6d65e9b49ce9d5cfbc46b6e748d'
+2023-03-26 04:34:12,625 - [fire_detector] - INFO - Count: 8	 ACK: b'c3202db9c2754aa49b30b5523e7e3a92'
+2023-03-26 04:34:13,429 - [fire_detector] - INFO - Count: 9	 ACK: b'5ce0f7ef13d640c4ab1c397eb740cd8d'
+2023-03-26 04:34:15,369 - [fire_detector] - INFO - Count: 10	 ACK: b'418f011cf1b24e7f825744744226aa70'
+2023-03-26 04:34:15,788 - [fire_detector] - INFO - Count: 11	 ACK: b'1d1f07ee0f054bffaf1db732b0a4a427'
+2023-03-26 04:34:16,641 - [fire_detector] - INFO - Count: 12	 ACK: b'e5199091fc7d429a881ab4877b752e1a'
+2023-03-26 04:34:17,417 - [fire_detector] - INFO - Count: 13	 ACK: b'96151b385218482181bd965f81d8a108'
+2023-03-26 04:35:03,942 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:35:03,943 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 04:35:03,943 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 04:35:03,944 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 04:35:13,110 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:35:13,121 - [fire_detector] - INFO - Error: Exiting program.
+2023-03-26 04:35:13,121 - [fire_detector] - INFO - Socket loop closed
+2023-03-26 04:35:13,122 - [fire_detector] - INFO - Shutting down socket queue!
+2023-03-26 04:35:18,670 - [fire_detector] - INFO - Attempting to connect!
+2023-03-26 04:35:38,568 - [fire_detector] - INFO - Count: 1	 ACK: b'f61b1d10291440f990212dbabd67e86d'
+2023-03-26 04:35:39,484 - [fire_detector] - INFO - Count: 2	 ACK: b'789c6e55b6394d89938aaaf32fd7e89a'
+2023-03-26 04:39:52,725 - [fire_detector] - INFO - Count: 3	 ACK: b'47c5a0b37068471a843afdca4f2a3b55'
+2023-03-26 04:39:54,403 - [fire_detector] - INFO - Count: 4	 ACK: b'7d2d8b55670a468680d9c4e384497b23'
+2023-03-26 04:39:54,932 - [fire_detector] - INFO - Count: 5	 ACK: b'bdbcf21d5d174bc59e4d74ba9b39ac8f'
+2023-03-26 04:39:55,977 - [fire_detector] - INFO - Count: 6	 ACK: b'e1852adf35f94c5b9be195044baa5055'
+2023-03-26 04:39:56,726 - [fire_detector] - INFO - Count: 7	 ACK: b'a67180fa81b5409a95d06ad92f2c3e74'
+2023-03-26 04:39:58,649 - [fire_detector] - INFO - Count: 8	 ACK: b'7c049282d98645f8ab8122415b7ed50c'
+2023-03-26 04:39:59,016 - [fire_detector] - INFO - Count: 9	 ACK: b'087ef44a96c3466e86d128bdc6739ec0'
+2023-03-26 04:39:59,748 - [fire_detector] - INFO - Count: 10	 ACK: b'be43b636f67244709370a073f11da5b4'
+2023-03-26 04:40:01,621 - [fire_detector] - INFO - Count: 11	 ACK: b'33450d8a79c8476c97a0433aa512bcbd'
+2023-03-26 04:42:39,043 - [fire_detector] - INFO - Count: 12	 ACK: b'9d5aebf750b140fc926c65f5161839dc'
+2023-03-26 04:43:12,502 - [fire_detector] - INFO - Count: 13	 ACK: b'b1418c2efc5d4470be821ece9b80d73a'
+2023-03-26 04:43:13,206 - [fire_detector] - INFO - Count: 14	 ACK: b'913a6807caba426799d6994e73f530bc'
+2023-03-26 04:43:13,991 - [fire_detector] - INFO - Count: 15	 ACK: b'f5dd03c75e8144aebcc7dd4bacf9f8ff'
+2023-03-26 04:43:20,986 - [fire_detector] - INFO - Count: 16	 ACK: b'4f7a3651054046a0bd80b79d9cb16536'
+2023-03-26 04:43:21,836 - [fire_detector] - INFO - Count: 17	 ACK: b'929894341d2449ffafa32801ef338102'
+2023-03-26 04:43:23,767 - [fire_detector] - INFO - Count: 18	 ACK: b'4ae13aa0e64e4482a28ceef81c4d7498'
+2023-03-26 04:43:30,211 - [fire_detector] - INFO - Count: 19	 ACK: b'7c10143c33fa44bfafedc38653cba662'
+2023-03-26 04:43:33,283 - [fire_detector] - INFO - Count: 20	 ACK: b'f5a861620a9a45c5a57340c693ed0136'
+2023-03-26 04:43:40,743 - [fire_detector] - INFO - Count: 21	 ACK: b'33ad678b04104b57baafb1f01784a684'
+2023-03-26 04:43:41,167 - [fire_detector] - INFO - Count: 22	 ACK: b'7ffae21b270c420d90e58b9834dd248e'
+2023-03-26 04:43:45,006 - [fire_detector] - INFO - Count: 23	 ACK: b'deebb06f36ef45898a9630681c7203b5'
+2023-03-26 04:43:46,971 - [fire_detector] - INFO - Count: 24	 ACK: b'4c73c946e2444fda8bc1309a7ad51a98'
+2023-03-26 04:43:52,470 - [fire_detector] - INFO - Count: 25	 ACK: b'b972e789ad5f4fc8aa2485226a844370'
+2023-03-26 04:43:52,982 - [fire_detector] - INFO - Count: 26	 ACK: b'4b9ebc2e2c234859a89f627e7bc66468'
+2023-03-26 04:43:53,982 - [fire_detector] - INFO - Count: 27	 ACK: b'8a3b88c2e9af42f18597e4173006a0a4'
+2023-03-26 04:43:54,950 - [fire_detector] - INFO - Count: 28	 ACK: b'4e26ca691f52430ebddf5e8f3a2942fd'
+2023-03-26 04:43:57,115 - [fire_detector] - INFO - Count: 29	 ACK: b'0a5e7407454c442c845fcc179d521baf'
+2023-03-26 04:44:08,902 - [fire_detector] - INFO - Count: 30	 ACK: b'4d25ee858fe64b1aae4f9f49ca93095f'
+2023-03-26 04:44:13,950 - [fire_detector] - INFO - Count: 31	 ACK: b'8ba29edb78ad462f934963419bd9f062'
+2023-03-26 04:44:15,915 - [fire_detector] - INFO - Count: 32	 ACK: b'547db79c48ab46b38cf8cf8b58abd50a'
+2023-03-26 04:44:16,128 - [fire_detector] - INFO - Count: 33	 ACK: b'769d006f2e2b4f8d9ecab3eb6455a56e'
+2023-03-26 04:44:16,999 - [fire_detector] - INFO - Count: 34	 ACK: b'15c2a74265804047a47ad3a5a725e79d'
+2023-03-26 04:44:18,966 - [fire_detector] - INFO - Count: 35	 ACK: b'45b869b3e3634c6cbfb14ccf1977a413'
+2023-03-26 04:44:19,399 - [fire_detector] - INFO - Count: 36	 ACK: b'ee61acd0b9a2471388debbe612ea0d47'
+2023-03-26 04:44:19,978 - [fire_detector] - INFO - Count: 37	 ACK: b'595df17889d24b96bf416fffecc35984'
+2023-03-26 04:44:22,030 - [fire_detector] - INFO - Count: 38	 ACK: b'e794592e58904a769a91eb376b1e6262'
+2023-03-26 04:44:22,478 - [fire_detector] - INFO - Count: 39	 ACK: b'd7539cf24710475e90191ba1ae3691aa'
+2023-03-26 04:44:23,071 - [fire_detector] - INFO - Count: 40	 ACK: b'f40cc8af36754b95b4aa3578066a328d'
+2023-03-26 04:44:24,354 - [fire_detector] - INFO - Count: 41	 ACK: b'6e90e665ad664b3d9e3f10a7781ce8d2'
+2023-03-26 04:44:25,014 - [fire_detector] - INFO - Count: 42	 ACK: b'a6a1891a02de4bcc8a62343d1b4fe5de'
+2023-03-26 04:44:25,791 - [fire_detector] - INFO - Count: 43	 ACK: b'4cfd920dd28d4ef0a777664773747397'
+2023-03-26 04:44:26,780 - [fire_detector] - INFO - Count: 44	 ACK: b'4382981ec8964367aac72c4135b26ee7'
+2023-03-26 04:44:28,533 - [fire_detector] - INFO - Count: 45	 ACK: b'8e61f0ef54eb4a88b74021c1064992f0'
+2023-03-26 04:44:30,267 - [fire_detector] - INFO - Count: 46	 ACK: b'503843d328f74b43a672f568131f3858'
+2023-03-26 04:44:31,034 - [fire_detector] - INFO - Count: 47	 ACK: b'b31819e64795488492517b10ab23d36c'
+2023-03-26 04:44:32,054 - [fire_detector] - INFO - Count: 48	 ACK: b'09a99f0c3c184d0aa6cab3832622676b'
+2023-03-26 04:44:33,313 - [fire_detector] - INFO - Count: 49	 ACK: b'9fba48f6bb5f4f83a2b24a2368f96149'
+2023-03-26 04:44:34,066 - [fire_detector] - INFO - Count: 50	 ACK: b'890e8801d57e4df78d9d994e57f0974d'
+2023-03-26 04:44:36,058 - [fire_detector] - INFO - Count: 51	 ACK: b'e3e5cf7a79f346c186fd8f70246d0b50'
+2023-03-26 04:44:37,771 - [fire_detector] - INFO - Count: 52	 ACK: b'22ba0e2256874386b0e4c113ee85d556'
+2023-03-26 04:44:38,979 - [fire_detector] - INFO - Count: 53	 ACK: b'c182362920fc40afbd9b0496f01aca2c'
+2023-03-26 04:44:39,730 - [fire_detector] - INFO - Count: 54	 ACK: b'77f1eb2df2e44c70849944c239020e8c'
