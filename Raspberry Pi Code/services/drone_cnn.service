@@ -1,0 +1,16 @@
+[Unit]
+Description=Fire Drone CNN Serivce. Used to start the CNN
+After=network.target drone_imgscraper.service
+
+[Service]
+WorkingDirectory=/opt/firedrone/scripts/cnn_model
+User=operator
+EnvironmentFile=/etc/firedrone/cnn.cfg
+ExecStart=/opt/firedrone/scripts/cnn_model/cnn_model.py $CNN_INPUT
+TimeoutStopSec=5s
+Restart=on-failure
+RestartSec=5s
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
